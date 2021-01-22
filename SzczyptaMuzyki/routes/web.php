@@ -14,5 +14,32 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('.pages.home');
+});
+Route::get('/about', function () {
+    return view('.pages.about');
+});
+Route::get('/class', function () {
+    return view('.pages.class');
+});
+Route::get('/class-detail', function () {
+    return view('.pages.class-details');
+});
+Route::get('/gallery', function () {
+    return view('.pages.gallery');
+});
+Route::get('/pricing', function () {
+    return view('.pages.pricing');
+});
+Route::get('/event', function () {
+    return view('.pages.event');
+});
+Route::get('/event-details', function () {
+    return view('.pages.event-details');
+});
+Route::get('/contact', function () {
+    return view('.pages.contact');
+});
+Route::get('/chceckout', function () {
+    return view('.pages.chceckout');
 });
