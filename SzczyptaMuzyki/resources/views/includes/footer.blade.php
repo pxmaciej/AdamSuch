@@ -45,7 +45,7 @@
                                 <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod.</div>
                                 <ul class="info-list">
                                     <li><i class="fas fa-home"></i>1201 park street, Fifth Avenue, Dhanmondy, Dhaka</li>
-                                    <li><i class="fas fa-phone"></i><a href="tel:88657524332">[88] 657 524 332</a></li>
+                                    <li><i class="fas fa-phone"></i><a href="tel:733 499 681">[+48] 733 499 681</a></li>
                                     <li><i class="fas fa-envelope"></i><a href="mailto:info@example.com">info@example.com</a></li>
                                 </ul>
                             </div>

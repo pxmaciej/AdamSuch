@@ -10,6 +10,7 @@
 </head>
 <body class="boxed_wrapper">
         <main>
+            @include('includes.search')
             @include('includes.navbar')
             @yield('content')
             @include('includes.footer')

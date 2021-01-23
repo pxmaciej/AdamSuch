@@ -13,7 +13,7 @@
                     <ul class="info-list">
                         <li>
                             <i class="fas fa-phone"></i>
-                            <a href="tel:12345615523">733 499 681</a>
+                            <a href="tel:733 499 681">733 499 681</a>
                         </li>
                         <li>
                             <i class="fas fa-envelope"></i>
@@ -94,7 +94,7 @@
                             <li class="header-flyout-searchbar">
                                 <i class="fa fa-search"></i>
                             </li>
-                            <li><a href="shop"><i class="fas fa-shopping-cart"></i></a></li>
+                            <li><a href="/chceckout"><i class="fas fa-shopping-cart"></i></a></li>
                         </ul>
                     </div>
                 </div>
