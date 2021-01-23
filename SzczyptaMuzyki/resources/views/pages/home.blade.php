@@ -620,18 +620,6 @@
                         <div class="overlay-box"><a href="images/gallery/3.jpg" class="lightbox-image" data-fancybox="gallery"><i class="flaticon-add"></i></a></div>
                     </div>
                 </div>
-                <div class="gallery-block">
-                    <div class="image-box">
-                        <figure class="image"><img src="images/gallery/4.jpg" alt=""></figure>
-                        <div class="overlay-box"><a href="images/gallery/4.jpg" class="lightbox-image" data-fancybox="gallery"><i class="flaticon-add"></i></a></div>
-                    </div>
-                </div>
-                <div class="gallery-block">
-                    <div class="image-box">
-                        <figure class="image"><img src="images/gallery/5.jpg" alt=""></figure>
-                        <div class="overlay-box"><a href="images/gallery/5.jpg" class="lightbox-image" data-fancybox="gallery"><i class="flaticon-add"></i></a></div>
-                    </div>
-                </div>
             </div>
         </div>
     </section>

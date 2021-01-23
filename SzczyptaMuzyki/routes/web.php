@@ -43,3 +43,7 @@ Route::get('/contact', function () {
 Route::get('/chceckout', function () {
     return view('.pages.chceckout');
 });
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
