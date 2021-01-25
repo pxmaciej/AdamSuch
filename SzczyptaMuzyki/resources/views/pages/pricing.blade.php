@@ -4,10 +4,10 @@
  <section class="page-title centred" style="background-image: url(images/background/page-title.jpg);">
     <div class="container">
         <div class="content-box">
-            <h1>Pricing Table</h1>
+            <h1>Cennik</h1>
             <ul class="bread-crumb clearfix">
-                <li><a href="index.html">Home</a></li>
-                <li>Pages</li>
+                <li><a href="/">Główna</a></li>
+                <li>Cennik</li>
             </ul>
         </div>
     </div>
@@ -19,15 +19,15 @@
 <section class="pricing-section sec-pad">
     <div class="container">
         <div class="sec-title centred">
-            <h5>Pricing</h5>
-            <h1>Pricing Table</h1>
+            <h5>Cennik</h5>
+            <h1>Cennik Tabela</h1>
         </div>
         <div class="inner-box">
             <div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-12 pricing-block">
                     <div class="pricing-table">
                         <div class="table-header">
-                            <h1>$20<span>/mo</span></h1>
+                            <h1>$20<span>/25 grupa</span></h1>
                             <h4>First Session</h4>
                             <div class="text">Lorem ipsum dolor amet consectetur do adipisicing  sed.</div>
                         </div>

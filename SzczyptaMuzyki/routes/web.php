@@ -46,4 +46,4 @@ Route::get('/chceckout', function () {
 
 Auth::routes();
 
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+Route::get('/dashadmin', [App\Http\Controllers\HomeController::class, 'index'])->middleware('admin');

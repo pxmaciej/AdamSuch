@@ -14,7 +14,7 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
                         <div class="about-widget footer-widget">
-                            <h3 class="widget-title">About Kidko</h3>
+                            <h3 class="widget-title">O Projekcie</h3>
                             <div class="widget-content">
                                 <div class="text">
                                     <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia dese runt mollit anim id est laborum. Sed ut perspiciatis unde omnis.</p>
@@ -25,42 +25,41 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
                         <div class="link-widget footer-widget">
-                            <h3 class="widget-title">Useful Link</h3>
+                            <h3 class="widget-title">Przydatne<br>Linki</h3>
                             <div class="widget-content">
                                 <ul>
-                                    <li><a href="#">About us</a></li>
-                                    <li><a href="#">Class Schedule</a></li>
-                                    <li><a href="#">Teacher & Staff</a></li>
-                                    <li><a href="#">Contact us</a></li>
-                                    <li><a href="#">Our Gallery</a></li>
-                                    <li><a href="#">Privacy policy</a></li>
+                                    <li><a href="/about">O Nas</a></li>
+                                    <li><a href="/class">Zajęcia</a></li>
+                                    <li><a href="/pricing">Cennik</a></li>
+                                    <li><a href="/contact">Kontakt</a></li>
+                                    <li><a href="/gallery">Nasza Galeria</a></li>
+                                    <li><a href="#">Polityka Prywatności</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
                         <div class="contact-widget footer-widget">
-                            <h3 class="widget-title">Get in Touch</h3>
+                            <h3 class="widget-title">Kontakt</h3>
                             <div class="widget-content">
-                                <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod.</div>
                                 <ul class="info-list">
                                     <li><i class="fas fa-home"></i>1201 park street, Fifth Avenue, Dhanmondy, Dhaka</li>
                                     <li><i class="fas fa-phone"></i><a href="tel:733 499 681">[+48] 733 499 681</a></li>
-                                    <li><i class="fas fa-envelope"></i><a href="mailto:info@example.com">info@example.com</a></li>
+                                    <li><i class="fas fa-envelope"></i><a href="mailto:info@example.com">kontakt@szczyptamuzyki.com</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
                         <div class="subscribe-widget footer-widget">
-                            <h3 class="widget-title">Subscribe Now</h3>
+                            <h3 class="widget-title">Subskrybuj już Teraz</h3>
                             <div class="widget-content">
                                 <div class="text">Lorem ipsum dolor sit amet, consecte- tur adipisicing elit sed do eiusmod.</div>
                                 <div class="subscribe-inner">
                                     <form action="#" method="post" class="subscribe-form">
                                         <div class="form-group">
-                                            <input type="email" name="email" placeholder="Enter Your Email" required="">
-                                            <button type="submit" class="theme-btn">Subscribe</button>
+                                            <input type="email" name="email" placeholder="Podaj swój Email" required="">
+                                            <button type="submit" class="theme-btn">Zapisz się</button>
                                         </div>
                                     </form>
                                 </div>

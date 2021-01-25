@@ -8,6 +8,7 @@
     <!-- main-slider -->
     <section class="main-slider">
         <div class="main-slider-carousel owl-carousel owl-theme nav-style-one">
+
             <div class="slide" style="background-image:url(images/main-slider/slider-1.jpg)">
                 <div class="container">
                     <div class="content-box">
@@ -38,6 +39,7 @@
                     </div>
                 </div>
             </div>
+
         </div>
     </section>
     <!-- main-slider end -->
@@ -61,8 +63,8 @@
                 <div class="col-lg-6 col-md-12 col-sm-12 content-column">
                     <div class="content-box">
                         <div class="sec-title style-two">
-                            <h5>About Us</h5>
-                            <h1>Welcome to Kidko Kindergarten</h1>
+                            <h5>O nas</h5>
+                            <h1>Witamy w serwisie Szczypta muzyki</h1>
                         </div>
                         <div class="bold-text">Cupidatat non proident sunt culpa qui officia deserunt mollit anim idest laborum</div>
                         <div class="text">
@@ -84,8 +86,8 @@
                 <div class="col-lg-4 col-md-12 col-sm-12 inner-column">
                     <div class="inner-content">
                         <div class="sec-title style-two">
-                            <h5>Services</h5>
-                            <h1>Best Services for Kids</h1>
+                            <h5>Usługi</h5>
+                            <h1>W To Mi Graj</h1>
                         </div>
                         <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna aliqua enim minim veniam.</div>
                     </div>
@@ -95,22 +97,22 @@
                         <div class="services-carousel owl-carousel owl-theme">
                             <div class="service-block-one">
                                 <div class="inner-box">
-                                    <div class="icon-box"><i class="flaticon-bus-1"></i></div>
-                                    <h3><a href="#">Bus Service</a></h3>
+                                    <div class="icon-box"><i class="fas fa-music"></i></div>
+                                    <h3><a href="#">Koncerty</a></h3>
                                     <div class="text">Cupidatat non proident sunt culpa qui officia deserunt mollit anim.</div>
                                 </div>
                             </div>
                             <div class="service-block-one">
                                 <div class="inner-box">
-                                    <div class="icon-box"><i class="flaticon-running"></i></div>
-                                    <h3><a href="#">Sports Training</a></h3>
+                                    <div class="icon-box"><i class="fas fa-graduation-cap"></i></div>
+                                    <h3><a href="#">Lekcje Online</a></h3>
                                     <div class="text">Cupidatat non proident sunt culpa qui officia deserunt mollit anim.</div>
                                 </div>
                             </div>
                             <div class="service-block-one">
                                 <div class="inner-box">
                                     <div class="icon-box"><i class="flaticon-drum"></i></div>
-                                    <h3><a href="#">Music Training</a></h3>
+                                    <h3><a href="#">Lekcje Rytmiki</a></h3>
                                     <div class="text">Cupidatat non proident sunt culpa qui officia deserunt mollit anim.</div>
                                 </div>
                             </div>
@@ -130,8 +132,8 @@
         </div>
         <div class="container">
             <div class="sec-title centred">
-                <h5>Classess</h5>
-                <h1>Education for Your<br />Children</h1>
+                <h5>Zajęcia</h5>
+                <h1>Edukacja dla twojego<br />Dziecka</h1>
             </div>
             <div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-12 block-column">
@@ -197,8 +199,8 @@
                 <div class="col-xl-5 col-lg-12 col-md-12 offset-xl-7 inner-column">
                     <div class="inner-content">
                         <div class="sec-title style-two">
-                            <h5>Facilities</h5>
-                            <h1>Best Facilities<br />for Kids</h1>
+                            <h5>Edukacja Online</h5>
+                            <h1>Dlaczego edukacja Online<br />jest ważna dla Dzieci</h1>
                         </div>
                         <div class="inner-box">
                             <div class="single-item wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
@@ -229,56 +231,18 @@
     <section class="our-teachers sec-pad centred">
         <div class="container">
             <div class="sec-title">
-                <h5>Teachers</h5>
-                <h1>World Best Teacher<br />Will Teach</h1>
+                <h5>Instruktor</h5>
+                <h1>Nasz Instruktor<br />Poprowadzi cię przez Muzykę</h1>
             </div>
             <div class="row">
-                <div class="col-xl-4 col-lg-6 col-md-12 block-column">
-                    <div class="teachers-block-one wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
-                        <div class="inner-box">
-                            <div class="image-holder">
-                                <figure class="image-box"><a href="#"><img src="images/resource/teacher-1.png" alt=""></a></figure>
-                            </div>
-                            <div class="lower-content">
-                                <h3><a href="#">Kevin Spacey</a></h3>
-                                <span class="designation">Teacher</span>
-                                <ul class="social-list">
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-12 block-column">
+                <div class="col-xl-12 col-lg-12 col-md-12 block-column">
                     <div class="teachers-block-one wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                         <div class="inner-box">
                             <div class="image-holder">
                                 <figure class="image-box"><a href="#"><img src="images/resource/teacher-2.png" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="#">Catherine Jones</a></h3>
-                                <span class="designation">Teacher</span>
-                                <ul class="social-list">
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-12 block-column">
-                    <div class="teachers-block-one wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
-                        <div class="inner-box">
-                            <div class="image-holder">
-                                <figure class="image-box"><a href="#"><img src="images/resource/teacher-3.png" alt=""></a></figure>
-                            </div>
-                            <div class="lower-content">
-                                <h3><a href="#">John Travolta</a></h3>
+                                <h3><a href="#">Adam Such</a></h3>
                                 <span class="designation">Teacher</span>
                                 <ul class="social-list">
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -303,8 +267,8 @@
         </div>
         <div class="container">
             <div class="sec-title centred">
-                <h5>Events</h5>
-                <h1>Our Events</h1>
+                <h5>Wydarzenia</h5>
+                <h1>Nasze Wydarzenia</h1>
             </div>
             <div class="row">
                 <div class="col-xl-6 col-lg-12 col-md-12 event-block">
@@ -375,8 +339,8 @@
                 <div class="col-lg-6 col-md-12 col-sm-12 testimonial-column">
                     <div class="testimonial-content">
                         <div class="sec-title style-two">
-                            <h5>Testimonials</h5>
-                            <h1>Happy Parents Say</h1>
+                            <h5>Opinie</h5>
+                            <h1>Co o nas mówią:</h1>
                         </div>
                         <div class="inner-content">
                             <div class="client-testimonial-carousel owl-carousel owl-theme">
@@ -553,10 +517,10 @@
         </div>
         <div class="container">
             <div class="content-box">
-                <h3>Join with Kidko</h3>
-                <h1>Enrol Your Child<br />in Kidko</h1>
+                <h3>Dołącz do Zajęć</h3>
+                <h1>Ciesz się zabawą<br />i nauką Muzyki</h1>
                 <div class="text">Cupidatat non proident sunt culpa qui officia<br />deserunt mollit anim idest laborum </div>
-                <div class="btn-box"><a href="#" class="theme-btn">Enrol Now</a></div>
+                <div class="btn-box"><a href="/pricing" class="theme-btn">Dołącz Teraz</a></div>
             </div>
         </div>
     </section>
@@ -567,8 +531,8 @@
     <section class="gallery-section sec-pad centred">
         <div class="container-fluid">
             <div class="sec-title">
-                <h5>Gallery</h5>
-                <h1>Photo Gallery</h1>
+                <h5>Galeria</h5>
+                <h1>Nasza Foto Galeria</h1>
             </div>
             <div class="gallery-carousel owl-carousel owl-theme">
                 <div class="gallery-block">
@@ -593,76 +557,8 @@
         </div>
     </section>
     <!-- gallery-section end -->
-
-
-    <!-- news-section -->
-    <section class="news-section">
-        <div class="anim-icon">
-            <div class="icon icon-1 wow zoomIn" data-wow-delay="00ms" data-wow-duration="1500ms"></div>
-        </div>
-        <div class="container">
-            <div class="sec-title centred">
-                <h5>Our Blog</h5>
-                <h1>News & Article</h1>
-            </div>
-            <div class="row">
-                <div class="col-lg-4 col-md-6 col-sm-12 news-block">
-                    <div class="news-block-one wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
-                        <div class="inner-box">
-                            <figure class="image-box"><a href="blog-details.html"><img src="images/resource/news-1.jpg" alt=""></a></figure>
-                            <div class="lower-content">
-                                <h3><a href="blog-details.html">The Indoor Activities for Everyone</a></h3>
-                                <ul class="info-box">
-                                    <li>20 July, 2019</li>
-                                    <li>5 Comments</li>
-                                </ul>
-                                <div class="text">Lorem ipsum dolor sit amet, consectetur pisicelit sed do eiusmod tempor incidie labore magna aliqua.</div>
-                                <div class="link-btn wow zoomIn" data-wow-delay="00ms" data-wow-duration="1500ms"><a href="blog-details.html"><i class="flaticon-next"></i></a></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 news-block">
-                    <div class="news-block-one wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-                        <div class="inner-box">
-                            <figure class="image-box"><a href="blog-details.html"><img src="images/resource/news-2.jpg" alt=""></a></figure>
-                            <div class="lower-content">
-                                <h3><a href="blog-details.html">We Make Difference in the Life Child</a></h3>
-                                <ul class="info-box">
-                                    <li>19 July, 2019</li>
-                                    <li>7 Comments</li>
-                                </ul>
-                                <div class="text">Lorem ipsum dolor sit amet, consectetur pisicelit sed do eiusmod tempor incidie labore magna aliqua.</div>
-                                <div class="link-btn wow zoomIn" data-wow-delay="200ms" data-wow-duration="1500ms"><a href="blog-details.html"><i class="flaticon-next"></i></a></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 news-block">
-                    <div class="news-block-one wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
-                        <div class="inner-box">
-                            <figure class="image-box"><a href="blog-details.html"><img src="images/resource/news-3.jpg" alt=""></a></figure>
-                            <div class="lower-content">
-                                <h3><a href="blog-details.html">Kids Grooming with New Lessons</a></h3>
-                                <ul class="info-box">
-                                    <li>18 July, 2019</li>
-                                    <li>4 Comments</li>
-                                </ul>
-                                <div class="text">Lorem ipsum dolor sit amet, consectetur pisicelit sed do eiusmod tempor incidie labore magna aliqua.</div>
-                                <div class="link-btn wow zoomIn" data-wow-delay="400ms" data-wow-duration="1500ms"><a href="blog-details.html"><i class="flaticon-next"></i></a></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- news-section end -->
-
-
-
 @endsection
-<!--Scroll to top-->
+
 
 
 

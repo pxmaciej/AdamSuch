@@ -4,10 +4,10 @@
   <section class="page-title centred" style="background-image: url(images/background/page-title.jpg);">
     <div class="container">
         <div class="content-box">
-            <h1>Event Details</h1>
+            <h1>Nasze Wydarzenia</h1>
             <ul class="bread-crumb clearfix">
-                <li><a href="index.html">Home</a></li>
-                <li>Pages</li>
+                <li><a href="/">Główna</a></li>
+                <li>Wydarzenia</li>
             </ul>
         </div>
     </div>

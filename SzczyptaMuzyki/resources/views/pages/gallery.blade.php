@@ -6,10 +6,10 @@
     <section class="page-title centred" style="background-image: url(images/background/page-title.jpg);">
         <div class="container">
             <div class="content-box">
-                <h1>Our Gallery</h1>
+                <h1>Nasza Galeria</h1>
                 <ul class="bread-crumb clearfix">
-                    <li><a href="index.html">Home</a></li>
-                    <li>Pages</li>
+                    <li><a href="/">Główna</a></li>
+                    <li>Galeria</li>
                 </ul>
             </div>
         </div>
@@ -21,15 +21,6 @@
     <section class="gallery-page-section">
         <div class="container">
             <div class="sortable-masonry">
-                <div class="filters">
-                    <ul class="filter-tabs filter-btns centred clearfix">
-                        <li class="active filter" data-role="button" data-filter=".all">All</li>
-                        <li class="filter" data-role="button" data-filter=".children">Children</li>
-                        <li class="filter" data-role="button" data-filter=".nature ">Nature</li>
-                        <li class="filter" data-role="button" data-filter=".program">Program</li>
-                        <li class="filter" data-role="button" data-filter=".library">Library</li>
-                    </ul>
-                </div>
                 <div class="items-container row clearfix">
                     <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all program children nature">
                         <div class="gallery-block">

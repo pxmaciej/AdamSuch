@@ -5,10 +5,10 @@
     <section class="page-title centred" style="background-image: url(images/background/page-title.jpg);">
         <div class="container">
             <div class="content-box">
-                <h1>About Us</h1>
+                <h1>O nas</h1>
                 <ul class="bread-crumb clearfix">
-                    <li><a href="index.html">Home</a></li>
-                    <li>About</li>
+                    <li><a href="/">Główna</a></li>
+                    <li>O nas</li>
                 </ul>
             </div>
         </div>
@@ -27,7 +27,7 @@
                 <div class="col-lg-6 col-md-12 col-sm-12 content-column">
                     <div class="content-box">
                         <div class="sec-title style-two">
-                            <h5>About Us</h5>
+                            <h5>O Nas</h5>
                             <h1>Welcome to Kidko Kindergarten</h1>
                         </div>
                         <div class="bold-text">Cupidatat non proident sunt culpa qui officia deserunt mollit anim idest laborum</div>
@@ -123,47 +123,13 @@
             </div>
             <div class="inner-content">
                 <div class="row">
-                    <div class="col-lg-4 col-md-6 col-sm-12 block-column">
-                        <div class="teachers-block-two wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
-                            <div class="inner-box">
-                                <figure class="image-box"><a href="#"><img src="images/resource/teacher-1.jpg" alt=""></a></figure>
-                                <div class="lower-content">
-                                    <h3><a href="#">Kevin Spacey</a></h3>
-                                    <span class="designation">Teacher</span>
-                                    <ul class="social-list">
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 block-column">
+                    <div class="col-lg-4 col-md-6 col-sm-12 block-column mx-auto">
                         <div class="teachers-block-two wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <figure class="image-box"><a href="#"><img src="images/resource/teacher-2.jpg" alt=""></a></figure>
                                 <div class="lower-content">
-                                    <h3><a href="#">Catherine Jones</a></h3>
-                                    <span class="designation">Teacher</span>
-                                    <ul class="social-list">
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 block-column">
-                        <div class="teachers-block-two wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
-                            <div class="inner-box">
-                                <figure class="image-box"><a href="#"><img src="images/resource/teacher-3.jpg" alt=""></a></figure>
-                                <div class="lower-content">
-                                    <h3><a href="#">John Travolta</a></h3>
-                                    <span class="designation">Teacher</span>
+                                    <h3><a href="#">Adam Such</a></h3>
+                                    <span class="designation">Instruktor</span>
                                     <ul class="social-list">
                                         <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                         <li><a href="#"><i class="fab fa-twitter"></i></a></li>
@@ -316,16 +282,7 @@
     <section class="fact-counter">
         <div class="container">
             <div class="row">
-                <div class="col-lg-3 col-md-6 col-sm-12 counter-column">
-                    <div class="counter-block wow slideInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
-                        <div class="icon-box"><i class="flaticon-two-users"></i></div>
-                        <div class="count-outer count-box">
-                            <span class="count-text" data-speed="1500" data-stop="200">0</span>
-                        </div>
-                        <div class="text">Teacher & Staffs</div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 counter-column">
+                <div class="col-lg-6 col-md-6 col-sm-12 counter-column">
                     <div class="counter-block wow slideInUp" data-wow-delay="100ms" data-wow-duration="1500ms">
                         <div class="icon-box"><i class="flaticon-calendar"></i></div>
                         <div class="count-outer count-box">
@@ -334,22 +291,13 @@
                         <div class="text">Total Sessions</div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 counter-column">
+                <div class="col-lg-6 col-md-6 col-sm-12 counter-column">
                     <div class="counter-block wow slideInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
                         <div class="icon-box"><i class="flaticon-boy"></i></div>
                         <div class="count-outer count-box">
                             <span class="count-text" data-speed="1500" data-stop="750">0</span>
                         </div>
                         <div class="text">Total Students</div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 counter-column">
-                    <div class="counter-block wow slideInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-                        <div class="icon-box"><i class="flaticon-flask"></i></div>
-                        <div class="count-outer count-box">
-                            <span class="count-text" data-speed="1500" data-stop="200">0</span>
-                        </div>
-                        <div class="text">Labs Project</div>
                     </div>
                 </div>
             </div>

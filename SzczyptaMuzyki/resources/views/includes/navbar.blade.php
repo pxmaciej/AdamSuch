@@ -79,7 +79,7 @@
                                 <ul class="navigation clearfix">
                                     <li><a href="/">Strona Główna</a></li>
                                     <li><a href="/about">O Nas</a></li>
-                                    <li><a href="/class">Lekcje</a>
+                                    <li><a href="/class">Zajęcia</a>
                                     </li>
                                     <li><a href="/gallery">Galeria</a></li>
                                     <li><a href="/pricing">Cennik</a></li>
@@ -120,7 +120,7 @@
                         <ul class="navigation clearfix">
                             <li class="current dropdown"><a href="/">Strona Głowna</a></li>
                             <li class="dropdown"><a href="/about">O Nas</a></li>
-                            <li class="dropdown"><a href="/class">Lekcje</a>
+                            <li class="dropdown"><a href="/class">Zajęcia</a>
                             </li>
                             <li><a href="/gallery">Galeria</a></li>
                             <li><a href="/pricing">Cennik</a></li>
