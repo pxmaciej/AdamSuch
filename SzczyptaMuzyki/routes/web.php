@@ -1,7 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use Illuminate\Support\Facades\Auth;
+use App\Http\Controllers\FileuploadController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -43,7 +44,11 @@ Route::get('/contact', function () {
 Route::get('/chceckout', function () {
     return view('.pages.chceckout');
 });
+Route::get('/movielist', [FileuploadController::class, 'show']);
+Route::resource('fileupload', FileuploadController::class);
 
 Auth::routes();
 
-Route::get('/dashadmin', [App\Http\Controllers\HomeController::class, 'index'])->name('dashadmin')->middleware('admin');
+Route::get('/dashadmin', [App\Http\Controllers\HomeController::class, 'index'])->middleware('admin');
+
+
