@@ -66,7 +66,6 @@ class FileuploadController extends Controller
         $savedfile = Fileupload::orderBy('id','DESC')->get();
         return view('pages/movielist')->with('savedfile', $savedfile);
     }
-
     /**
      * Show the form for editing the specified resource.
      *

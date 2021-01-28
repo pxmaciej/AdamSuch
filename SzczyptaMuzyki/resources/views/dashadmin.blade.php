@@ -40,7 +40,7 @@
                 <div class="card-header">Dodaj Nowe Wydarzenie</div>
 
                 <div class="card-body">
-                    <form method="POST" enctype="multipart/form-data" action="">
+                    <form method="POST" enctype="multipart/form-data" action="{{route('eventupload.store')}}">
                         @csrf
                         <div class="form-group">
                           <label for="title">Wprowadź Tytuł</label>
@@ -52,7 +52,7 @@
                         </div>
                         <div class="form-group">
                           <label for="exampleFormControlFile2">Wprowadź OBRAZ</label>
-                          <input type="file" class="form-control-file" name="uploadedimg">
+                          <input type="file" class="form-control-file" name="fileimg">
                         </div>
                          <button class="btn btn-primary">Wyślij</button>
                       </form>

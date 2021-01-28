@@ -1,8 +1,11 @@
 <?php
 
+use App\Http\Controllers\EventuploadController;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Auth;
 use App\Http\Controllers\FileuploadController;
+use App\Http\Controllers\MovieController;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -32,9 +35,8 @@ Route::get('/gallery', function () {
 Route::get('/pricing', function () {
     return view('.pages.pricing');
 });
-Route::get('/event', function () {
-    return view('.pages.event');
-});
+Route::get('/event', [EventuploadController::class, 'show']);
+
 Route::get('/event-details', function () {
     return view('.pages.event-details');
 });
@@ -44,10 +46,16 @@ Route::get('/contact', function () {
 Route::get('/chceckout', function () {
     return view('.pages.chceckout');
 });
-Route::get('/movielist', [FileuploadController::class, 'show']);
-Route::resource('fileupload', FileuploadController::class);
 
 Auth::routes();
+
+Route::get('/movie/{movieid}', [MovieController::class, 'play']);
+
+Route::get('/movielist', [FileuploadController::class, 'show']);
+
+Route::resource('fileupload', FileuploadController::class);
+
+Route::resource('eventupload', EventuploadController::class);
 
 Route::get('/dashadmin', [App\Http\Controllers\HomeController::class, 'index'])->middleware('admin');
 
