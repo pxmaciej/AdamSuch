@@ -39,7 +39,7 @@
                                 {{ Auth::user()->name }}
                             </a>
 
-                            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                            <div class="dropdown-menu dropdown-menu-right bg-dark" aria-labelledby="navbarDropdown">
                                 @if (Auth::user()->role == 'admin')
                                 <a class=" dropdown-item" href="/dashadmin">Kokpit</a>
                                 <a class=" dropdown-item" href="/movielist">Lista Filmów</a>

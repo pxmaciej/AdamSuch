@@ -7,6 +7,14 @@ use Illuminate\Http\Request;
 
 class FileuploadController extends Controller
 {
+
+
+    public function __construct()
+    {
+        $this->middleware('auth');
+
+    }
+
     /**
      * Display a listing of the resource.
      *
@@ -74,7 +82,7 @@ class FileuploadController extends Controller
      */
     public function edit(Fileupload $fileupload)
     {
-        //
+       return view('editmovie', compact('fileupload'));
     }
 
     /**
@@ -84,9 +92,37 @@ class FileuploadController extends Controller
      * @param  \App\Models\Fileupload  $fileupload
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, Fileupload $fileupload)
+    public function update(Request $request, $id)
     {
-        //
+        $editedFile = Fileupload::find($id);
+        $deletedFilename = $editedFile->file_name;
+        $deletedFilepath = public_path('storage/'.$deletedFilename);
+        unlink($deletedFilepath);
+        $deletedImgname = $editedFile->file_img;
+        $deletedImgepath = public_path('storage/'.$deletedImgname);
+        unlink($deletedImgepath);
+
+        $file = $request->file('editedfile');
+        $filename = $file->getClientOriginalName();
+        $filename = time().'.'. $filename;
+        $filetitle = $request->title;
+        $filebody = $request->body;
+        $fileimg = $request->file('editedimg');
+        $fileimg_name = $fileimg->getClientOriginalName();
+        $fileimg_name = time().'.'.$fileimg_name;
+
+
+        $editedFile->file_name = $filename;
+        $editedFile->title = $filetitle;
+        $editedFile->body = $filebody;
+        $editedFile->file_img = $fileimg_name;
+        $editedFile->save();
+
+        $file->storeAs('public', $filename);
+        $fileimg->storeAs('public', $fileimg_name);
+
+        return back()->with('movie_edited', 'Film został Edytowany!');
+
     }
 
     /**
@@ -97,6 +133,17 @@ class FileuploadController extends Controller
      */
     public function destroy(Fileupload $fileupload)
     {
-        //
+
+        $deleteFile = Fileupload::find($fileupload->id);
+        $deletedFilename = $deleteFile->file_name;
+        $deletedFilepath = public_path('storage/'.$deletedFilename);
+        unlink($deletedFilepath);
+        $deletedImgname = $deleteFile->file_img;
+        $deletedImgepath = public_path('storage/'.$deletedImgname);
+        unlink($deletedImgepath);
+        $fileupload->delete();
+
+
+        return back()->with('delete_success', 'Film został Usunięty!');
     }
 }

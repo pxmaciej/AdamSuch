@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Controller;
 use App\Http\Controllers\EventuploadController;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Auth;
@@ -17,9 +18,8 @@ use App\Http\Controllers\MovieController;
 |
 */
 
-Route::get('/', function () {
-    return view('.pages.home');
-});
+Route::get('/', [Controller::class, 'getEvent']);
+
 Route::get('/about', function () {
     return view('.pages.about');
 });
@@ -47,7 +47,7 @@ Route::get('/chceckout', function () {
     return view('.pages.chceckout');
 });
 
-Auth::routes();
+Auth::routes(['register' => false]);
 
 Route::get('/movie/{movieid}', [MovieController::class, 'play']);
 

@@ -70,7 +70,7 @@ class EventuploadController extends Controller
      */
     public function edit(Eventupload $eventupload)
     {
-        //
+        return view('editevent', compact('eventupload'));
     }
 
     /**
@@ -80,9 +80,20 @@ class EventuploadController extends Controller
      * @param  \App\Models\Eventupload  $eventupload
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, Eventupload $eventupload)
+    public function update(Request $request, $id)
     {
-        //
+        $editedFile = Eventupload::find($id);
+        $deletedImgname = $editedFile->file_img;
+        $deletedImgepath = public_path('storage/events'.$deletedImgname);
+        unlink($deletedImgepath);
+        $event = $request->file('fileimg');
+        $eventname = $event->getClientOriginalName();
+        $eventname = time().'.'. $eventname;
+        $editedFile->title = $request->title;
+        $editedFile->body = $request->body;
+        $editedFile->img_name = $eventname;
+        $event->storeAs('public/events/', $eventname);
+
     }
 
     /**
@@ -93,6 +104,11 @@ class EventuploadController extends Controller
      */
     public function destroy(Eventupload $eventupload)
     {
-        //
+        $editedFile = Eventupload::find($eventupload->id);
+        $deletedImgname = $editedFile->file_img;
+        $deletedImgepath = public_path('storage/events'.$deletedImgname);
+        unlink($deletedImgepath);
+        $eventupload->delete();
+        return back()->with('delete_success_event', 'Wydarzenie zostało Usunięte!');
     }
 }

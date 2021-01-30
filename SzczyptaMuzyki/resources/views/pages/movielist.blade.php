@@ -1,20 +1,37 @@
 @extends('layouts.app')
 @section('content')
-<div class="container my-5 text-center">
-     <div class="row">
-  @forelse ($savedfile as $file)
-     <div class="col-lg-4 col-md-6 col-sm-12">
-           <div class="card">
-                <img src="storage/{{$file->file_img}}" alt="MovieShot" class="card-img-top rounded img-thumbnail img-fluid" style="max-height:15em;">
-                <div class="card-body">
-                    <h5 class="card-title">{{$file->title}}</h5>
-                    <p class="card-text">{{$file->body}}</p>
-                    <a href="movie/{{$file->id}}" class="btn btn-primary">Go somewhere</a>
+<section class="event-page-section">
+    <div class="container">
+        <div class="row">
+            @forelse ($savedfile as $file)
+                <div class="col-xl-6 col-lg-12 col-md-12 event-block">
+                        <div class="event-block-one wow fadeInLeft" data-wow-delay="00ms" data-wow-duration="1500ms">
+                            <div class="inner-box">
+                                <figure class="image-box">
+                                    <a href="movie/{{$file->id}}">
+                                        <img src="storage/{{$file->file_img}}" alt="">
+                                    </a>
+                                </figure>
+                                <div class="content-box">
+                                    <div class="date">
+                                        {{$file->created_at}}
+                                    </div>
+                                    <h3>
+                                        <a href="movie/{{$file->id}}">
+                                        {{$file->title}}
+                                        </a>
+                                    </h3>
+                                    <div class="text">
+                                        {{$file->body}}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                 </div>
+                @empty
+            @endforelse
         </div>
-     </div>
-  @empty
-  @endforelse
-     </div>
-</div>
+    </div>
+</section>
+
 @endsection

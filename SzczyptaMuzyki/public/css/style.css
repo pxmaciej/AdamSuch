@@ -57,9 +57,10 @@
 
 /* use style sheet */
 
-@import 'font-awesome-all.css';
-@import 'flaticon.css';
-@import 'owl.css';
+
+@import url(font-awesome-all.css);
+@import url(flaticon.css);
+@import url(owl.css);
 @import url(bootstrap.css);
 @import url(jquery.fancybox.min.css);
 @import url(animate.css);
