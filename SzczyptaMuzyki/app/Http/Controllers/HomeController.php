@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\Eventupload;
 use App\Models\Fileupload;
+use App\Models\User;
 use Illuminate\Http\Request;
 
 class HomeController extends Controller
@@ -27,6 +28,8 @@ class HomeController extends Controller
     {
         $savedevent = Eventupload::orderBy('id','DESC')->get();
         $savedfile = Fileupload::orderBy('id','DESC')->get();
-        return view('dashadmin')->with('savedfile', $savedfile)->with('savedevent', $savedevent);
+        $users = User::orderBy('id','DESC')->get();
+        return view('dashadmin')->with('savedfile', $savedfile)->with('savedevent', $savedevent)->with('users', $users);
     }
+
 }

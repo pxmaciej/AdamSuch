@@ -24,11 +24,11 @@
             <div class="col-xl-6 col-lg-12 col-md-12 event-block">
                 <div class="event-block-one wow fadeInLeft" data-wow-delay="00ms" data-wow-duration="1500ms">
                     <div class="inner-box">
-                        <figure class="image-box"><a href="event-details.html"><img src="storage/events/{{$event->img_name}}" alt=""></a></figure>
+                        <figure class="image-box"><a href="/event-details/{{$event->id}}"><img src="storage/events/{{$event->img_name}}" alt=""></a></figure>
                         <div class="content-box">
-                            <div class="date">10 July, 2019</div>
-                            <h3><a href="event-details.html">{{$event->title}}</a></h3>
-                            <div class="text">{{$event->body}}</div>
+                            <div class="date">{{$event->start_date}}</div>
+                            <h3><a href="/event-details/{{$event->id}}">{{$event->title}}</a></h3>
+                            <div class="text">{{$event->content}}</div>
                         </div>
                     </div>
                 </div>

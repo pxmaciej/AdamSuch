@@ -17,7 +17,11 @@ class CreateEventuploadsTable extends Migration
             $table->id();
             $table->string('img_name');
             $table->string('title');
-            $table->string('body');
+            $table->string('content');
+            $table->text('body');
+            $table->string('start_date');
+            $table->string('time_event');
+            $table->string('location_event');
             $table->timestamps();
         });
     }

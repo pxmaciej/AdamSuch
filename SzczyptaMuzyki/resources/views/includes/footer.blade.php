@@ -17,8 +17,9 @@
                             <h3 class="widget-title">O Projekcie</h3>
                             <div class="widget-content">
                                 <div class="text">
-                                    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia dese runt mollit anim id est laborum. Sed ut perspiciatis unde omnis.</p>
-                                    <p>iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+                                  <p>Strona SZCZYPTA MUZYKI powstała z pasji do muzyki oraz potrzeby szerzenia edukacji muzycznej wśród najmłodszych dzieci.
+                                    Oferta skierowana jest dla dzieci zarówno w szkole, jak i w przedszkolu. Warsztaty mają na celu pobudzenie u dzieci kreatywności i twórczości w kontakcie z muzyką.
+                                     W ofercie zarówno warsztaty stacjonarne z możliwością dojazdu do placówki w dowolnym miejscu w Polsce jak i - warsztaty on-line. Serdecznie zapraszam!</p>
                                 </div>
                             </div>
                         </div>
@@ -43,9 +44,9 @@
                             <h3 class="widget-title">Kontakt</h3>
                             <div class="widget-content">
                                 <ul class="info-list">
-                                    <li><i class="fas fa-home"></i>1201 park street, Fifth Avenue, Dhanmondy, Dhaka</li>
+                                    <li><i class="fas fa-home"></i>ul. Działkowa 76/13 <br> 59-220 Legnica</li>
                                     <li><i class="fas fa-phone"></i><a href="tel:733 499 681">[+48] 733 499 681</a></li>
-                                    <li><i class="fas fa-envelope"></i><a href="mailto:info@example.com">kontakt@szczyptamuzyki.com</a></li>
+                                    <li><i class="fas fa-envelope"></i><a href="mailto:kontakt@szczyptamuzyki.com">kontakt@szczyptamuzyki.com</a></li>
                                 </ul>
                             </div>
                         </div>

@@ -40,12 +40,21 @@ class EventuploadController extends Controller
         $eventname = time().'.'. $eventname;
         $eventtitle = $request->title;
         $eventbody = $request->body;
+        $eventcontent = $request->content;
+        $eventdate = $request->start;
+        $eventtime = $request->time;
+        $eventlocation = $request->location;
+
         $event->storeAs('public/events/', $eventname);
 
         Eventupload::create([
             'img_name' => $eventname,
             'title' => $eventtitle,
+            'content' => $eventcontent,
             'body' => $eventbody,
+            'start_date' => $eventdate,
+            'time_event' => $eventtime,
+            'location_event' => $eventlocation,
         ]);
         return back()->with('event_created', 'Wydarzenie zostało dodane!');
     }
@@ -83,17 +92,23 @@ class EventuploadController extends Controller
     public function update(Request $request, $id)
     {
         $editedFile = Eventupload::find($id);
-        $deletedImgname = $editedFile->file_img;
-        $deletedImgepath = public_path('storage/events'.$deletedImgname);
+        $deletedImgname = $editedFile->img_name;
+        $deletedImgepath = public_path('storage/events/'. $deletedImgname);
         unlink($deletedImgepath);
         $event = $request->file('fileimg');
         $eventname = $event->getClientOriginalName();
         $eventname = time().'.'. $eventname;
         $editedFile->title = $request->title;
         $editedFile->body = $request->body;
+        $editedFile->content = $request->content;
+        $editedFile->start_date = $request->start;
+        $editedFile->time_event = $request->time;
+        $editedFile->location_event = $request->location;
         $editedFile->img_name = $eventname;
+        $editedFile->save();
         $event->storeAs('public/events/', $eventname);
 
+        return back()->with('event_edited', 'Wydarzenie zostało Edytowane!');
     }
 
     /**
@@ -104,9 +119,10 @@ class EventuploadController extends Controller
      */
     public function destroy(Eventupload $eventupload)
     {
+
         $editedFile = Eventupload::find($eventupload->id);
-        $deletedImgname = $editedFile->file_img;
-        $deletedImgepath = public_path('storage/events'.$deletedImgname);
+        $deletedImgname = $editedFile->img_name;
+        $deletedImgepath = public_path('storage/events/'.$deletedImgname);
         unlink($deletedImgepath);
         $eventupload->delete();
         return back()->with('delete_success_event', 'Wydarzenie zostało Usunięte!');

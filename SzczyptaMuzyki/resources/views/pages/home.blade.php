@@ -63,14 +63,22 @@
                 <div class="col-lg-6 col-md-12 col-sm-12 content-column">
                     <div class="content-box">
                         <div class="sec-title style-two">
-                            <h5>O nas</h5>
+                            <h5>O Mnie</h5>
                             <h1>Witamy w serwisie Szczypta muzyki</h1>
                         </div>
-                        <div class="bold-text">Cupidatat non proident sunt culpa qui officia deserunt mollit anim idest laborum</div>
+                        <div class="bold-text">„Muzyka to najlepszy język do poruszania serc ludzi na całym świecie.”<p class="font-italic text-right">Jimmy Page</p></div>
                         <div class="text">
-                            <p>Cupidatat non proident sunt culpa qui officia deserunt mollit anim idest laborum sed ut perspiciatis unde omnis iste natuserror sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae.</p>
+                            <p>Nazywam się Adam i pochodzę z Legnicy.
+                                Od prawie dwudziestu lat moją pasją jest gra na bębnach afrykańskich różnego pochodzenia.
+                                Talent do gry na instrumentach perkusyjnych odkryłem w 2002 roku i kształciłem go od najlepszych instruktorów.
+                                Doświadczenie zawodowe zdobywałem grając na bębnach podczas różnych imprez tematycznych i okolicznościowych z muzykami z całej Polski i Europy.
+                                Moją pasję przełożyłem na pracę z dziećmi i młodzieżą.
+                                Od kilku lat prowadzę warsztaty muzyczne dla dzieci w przedszkolach i szkołach w całej Polsce.
+                                Nieustannie pragnę dzielić się swoją wiedzą i doświadczeniem z młodym pokoleniem.
+                                Muzyka jest esencją mojego życia - miłość do niej pozwoliła mi przezwyciężyć wszystkie przeciwności losu.
+                                Zapraszam do wspólnej podróży muzycznej.</p>
                         </div>
-                        <div class="btn-box"><a href="contact.html" class="theme-btn">Contact us</a></div>
+                        <div class="btn-box"><a href="/contact" class="theme-btn">Kontakt</a></div>
                     </div>
                 </div>
             </div>
@@ -87,9 +95,9 @@
                     <div class="inner-content">
                         <div class="sec-title style-two">
                             <h5>Usługi</h5>
-                            <h1>W To Mi Graj</h1>
+                            <h1>Warsztaty Muzyczne</h1>
                         </div>
-                        <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna aliqua enim minim veniam.</div>
+                        <div class="text">Warsztaty Online mogą zastąpić lub być alternatywą innych form nauki gry na bębnach.</div>
                     </div>
                 </div>
                 <div class="col-lg-8 col-md-12 col-sm-12 carousel-column">
@@ -199,24 +207,24 @@
                 <div class="col-xl-5 col-lg-12 col-md-12 offset-xl-7 inner-column">
                     <div class="inner-content">
                         <div class="sec-title style-two">
-                            <h5>Edukacja Online</h5>
-                            <h1>Dlaczego edukacja Online<br />jest ważna dla Dzieci</h1>
+                            <h5>Warsztaty Muzyczne</h5>
+                            <h1>Warsztaty Online<br />są dla Ciebie Jeśli:</h1>
                         </div>
                         <div class="inner-box">
                             <div class="single-item wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
-                                <div class="icon-box"><i class="flaticon-bus"></i></div>
-                                <h3><a href="#">Transportation</a></h3>
-                                <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod tempor incididunt labore.</div>
+                                <div class="icon-box"><i class="fas fa-hourglass-end"></i></div>
+                                <h3><a href="#">Cenisz sobie czas</a></h3>
+                                <div class="text">Nie możesz lub nie chcesz brać udziału w systematycznych lekcjach stacjonarnych</div>
                             </div>
                             <div class="single-item wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
-                                <div class="icon-box"><i class="flaticon-console"></i></div>
-                                <h3><a href="#">Outdoor Games</a></h3>
-                                <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod tempor incididunt labore.</div>
+                                <div class="icon-box"><i class="fas fa-home"></i></div>
+                                <h3><a href="#">Lubisz ćwiczyć w domu</a></h3>
+                                <div class="text">Potrzebujesz powtórzyć poznane już techniki gry na bębnach</div>
                             </div>
                             <div class="single-item wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
-                                <div class="icon-box"><i class="flaticon-harvest"></i></div>
-                                <h3><a href="#">Nutritious Food</a></h3>
-                                <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod tempor incididunt labore.</div>
+                                <div class="icon-box"><i class="fas fa-coins"></i></div>
+                                <h3><a href="#">Chcesz zaoszczędzić</a></h3>
+                                <div class="text">Zainwestuj mniej niż w zajęcia stacjonarne</div>
                             </div>
                         </div>
                     </div>
@@ -481,8 +489,8 @@
         <div class="container">
             <div class="content-box">
                 <h3>Dołącz do Zajęć</h3>
-                <h1>Ciesz się zabawą<br />i nauką Muzyki</h1>
-                <div class="text">Cupidatat non proident sunt culpa qui officia<br />deserunt mollit anim idest laborum </div>
+                <h1>WYBIERZ SIĘ ZE MNĄ<br />W NIEPOWTARZALNĄ MUZYCZNĄ PODRÓŻ!</h1>
+                <div class="text">Indywidualne Lekcje Gry Online<br />Warsztaty Muzyczne Online</div>
                 <div class="btn-box"><a href="/pricing" class="theme-btn">Dołącz Teraz</a></div>
             </div>
         </div>

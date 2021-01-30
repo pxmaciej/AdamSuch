@@ -28,11 +28,9 @@
                             </li>
                         @endif
 
-                        @if (Route::has('register'))
-                            <li>
-                                <a href="{{ route('register') }}">{{ __('Register') }}</a>
-                            </li>
-                        @endif
+
+
+
                     @else
                         <li class="dropdown">
                             <a id="navbarDropdown" class="dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" v-pre>
@@ -42,8 +40,10 @@
                             <div class="dropdown-menu dropdown-menu-right bg-dark" aria-labelledby="navbarDropdown">
                                 @if (Auth::user()->role == 'admin')
                                 <a class=" dropdown-item" href="/dashadmin">Kokpit</a>
-                                <a class=" dropdown-item" href="/movielist">Lista Filmów</a>
+
+                                <a class=" dropdown-item" href="{{ route('register') }}">{{ __('Register') }}</a>
                                 @endif
+                                <a class=" dropdown-item" href="/movielist">Lista Filmów</a>
                                 <a class="dropdown-item" href="{{ route('logout') }}"
                                    onclick="event.preventDefault();
                                                  document.getElementById('logout-form').submit();">
@@ -67,7 +67,7 @@
         <div class="container">
             <div class="clearfix">
                 <div class="logo-box pull-left">
-                    <figure class="logo"><a href="index"><img src="images/logo.png" alt=""></a></figure>
+                    <figure class="logo"><a href="index"><img src="{{ asset('images/logo.png')}}" alt=""></a></figure>
                 </div>
                 <div class="nav-outer pull-right clearfix">
                     <div class="menu-area">
@@ -83,7 +83,7 @@
                             <div class="navbar-collapse collapse clearfix">
                                 <ul class="navigation clearfix">
                                     <li><a href="/">Strona Główna</a></li>
-                                    <li><a href="/about">O Nas</a></li>
+                                    <li><a href="/about">O Mnie</a></li>
                                     <li><a href="/class">Zajęcia</a>
                                     </li>
                                     <li><a href="/gallery">Galeria</a></li>
@@ -124,7 +124,7 @@
                     <div class="navbar-collapse collapse clearfix">
                         <ul class="navigation clearfix">
                             <li class="current dropdown"><a href="/">Strona Głowna</a></li>
-                            <li class="dropdown"><a href="/about">O Nas</a></li>
+                            <li class="dropdown"><a href="/about">O Mnie</a></li>
                             <li class="dropdown"><a href="/class">Zajęcia</a>
                             </li>
                             <li><a href="/gallery">Galeria</a></li>

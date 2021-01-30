@@ -14,7 +14,7 @@
                                 </figure>
                                 <div class="content-box">
                                     <div class="date">
-                                        {{$file->created_at}}
+                                        {{ \Carbon\Carbon::parse($file->created_at)->format('d/m/Y')}}
                                     </div>
                                     <h3>
                                         <a href="movie/{{$file->id}}">

@@ -1,11 +1,13 @@
 <?php
 
 use App\Http\Controllers\Controller;
+use App\Http\Controllers\EventDetailController;
 use App\Http\Controllers\EventuploadController;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Auth;
 use App\Http\Controllers\FileuploadController;
 use App\Http\Controllers\MovieController;
+use App\Http\Controllers\UserController;
 
 /*
 |--------------------------------------------------------------------------
@@ -47,7 +49,9 @@ Route::get('/chceckout', function () {
     return view('.pages.chceckout');
 });
 
-Auth::routes(['register' => false]);
+
+
+Route::get('/event-details/{eventid}', [EventDetailController::class, 'detailEvent']);
 
 Route::get('/movie/{movieid}', [MovieController::class, 'play']);
 
@@ -59,4 +63,6 @@ Route::resource('eventupload', EventuploadController::class);
 
 Route::get('/dashadmin', [App\Http\Controllers\HomeController::class, 'index'])->middleware('admin');
 
+Route::resource('deleteuser', UserController::class);
 
+Auth::routes();
