@@ -77,6 +77,48 @@
         </div>
     </div>
     <div class="row justify-content-center">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-header">Zakupy</div>
+
+                <div class="card-body">
+                    <table class="table">
+                        <thead class="thead-white">
+                          <tr>
+                            <th scope="col">Imie</th>
+                            <th scope="col">Nazwisko</th>
+                            <th scope="col">Nazwa Firmy</th>
+                            <th scope="col">Email</th>
+                            <th scope="col">Telefon</th>
+                            <th scope="col">Adres</th>
+                            <th scope="col">Miasto</th>
+                            <th scope="col">Kod Poczotowy</th>
+                            <th scope="col">Kategoria</th>
+                            <th scope="col">Notatki</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                        @foreach($checkouts as $checkout)
+                          <tr>
+                            <td>{{$chceckout->Imie}}</td>
+                            <td>{{$chceckout->Nazwisko}}</td>
+                            <td>{{$chceckout->Nazwa_Firmy}}</td>
+                            <td>{{$chceckout->Email}}</td>
+                            <td>{{$chceckout->Telefon}}</td>
+                            <td>{{$chceckout->Adres}}</td>
+                            <td>{{$chceckout->Miasto}}</td>
+                            <td>{{$chceckout->Kod_Pocztowy}}</td>
+                            <td>{{$chceckout->Kategoria}}</td>
+                            <td>{{$chceckout->Notatki}}</td>
+                          </tr>
+                          @endforeach
+                        </tbody>
+                      </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
                 <div class="card-header">Lista Filmów</div>

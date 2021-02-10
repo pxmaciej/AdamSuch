@@ -29,7 +29,7 @@
                         <div class="inner-box">
                             <div class="icon-box"><i class="flaticon-address"></i></div>
                             <h3>Nasza Lokalizacja</h3>
-                            <div class="text">16/14 Babor Road, Shyamoly<br />Dhaka.</div>
+                            <div class="text">ul. Działkowa 76/13<br />59-220 Legnica</div>
                         </div>
                     </div>
                 </div>
@@ -39,8 +39,8 @@
                             <div class="icon-box"><i class="flaticon-vintage-hand-phone"></i></div>
                             <h3>Numer Telefonu</h3>
                             <div class="text">
-                                <a href="tel:(+55)654-545-5418">(+55) 654 - 545 - 5418</a><br />
-                                <a href="tel:(+55)654-545-1235">(+55)  654 - 545 - 1235</a>
+                                <a href="tel:(+48)733 499 681">(+48) 733 499 681</a><br />
+                                <a href="tel:(+48)531 499 681">(+48) 531 499 681</a><br />
                             </div>
                         </div>
                     </div>
@@ -51,8 +51,8 @@
                             <div class="icon-box"><i class="flaticon-mail"></i></div>
                             <h3>Email Adres</h3>
                             <div class="text">
-                                <a href="mailto:info@example.com">info@example.com</a><br />
-                                <a href="mailto:info@templatepath.com">info@templatepath.com</a>
+                                <a href="mailto:info@example.com">kontakt@szczyptamuzyki.pl</a><br />
+                                <br>
                             </div>
                         </div>
                     </div>
@@ -61,8 +61,6 @@
         </div>
     </section>
     <!-- contact-info-section end -->
-
-
     <!-- contact-form-section -->
     <section class="contact-form-section sec-pad">
         <div class="container">
@@ -101,28 +99,4 @@
         </div>
     </section>
     <!-- contact-form-section end -->
-
-
-    <!-- google-map-section -->
-    <section class="google-map-section">
-        <div class="map-column">
-            <div class="google-map-area">
-                <div
-                    class="google-map"
-                    id="contact-google-map"
-                    data-map-lat="40.712776"
-                    data-map-lng="-74.005974"
-                    data-icon-path="images/icons/map-marker.png"
-                    data-map-title="Brooklyn, New York, United Kingdom"
-                    data-map-zoom="12"
-                    data-markers='{
-                        "marker-1": [40.712776, -74.005974, "<h4>Branch Office</h4><p>77/99 New York</p>","images/icons/map-marker.png"]
-                    }'>
-
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- google-map-section end -->
-
 @endsection

@@ -27,8 +27,8 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 pricing-block">
                     <div class="pricing-table">
                         <div class="table-header">
-                            <h1>$20<span>/25 grupa</span></h1>
-                            <h4>First Session</h4>
+                            <h1>450zł<span></span></h1>
+                            <h4>Warsztaty Stacjonarnie</h4>
                             <div class="text">Lorem ipsum dolor amet consectetur do adipisicing  sed.</div>
                         </div>
                         <div class="table-content">
@@ -41,15 +41,15 @@
                             </ul>
                         </div>
                         <div class="table-footer">
-                            <a href="#" class="theme-btn">Select Plan</a>
+                            <a href="/chceckoutws" class="theme-btn">Wybierz Plan</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 pricing-block">
                     <div class="pricing-table">
                         <div class="table-header">
-                            <h1>$30<span>/mo</span></h1>
-                            <h4>Second Session</h4>
+                            <h1>450zł<span></span></h1>
+                            <h4>Koncert</h4>
                             <div class="text">Lorem ipsum dolor amet consectetur do adipisicing  sed.</div>
                         </div>
                         <div class="table-content">
@@ -62,15 +62,15 @@
                             </ul>
                         </div>
                         <div class="table-footer">
-                            <a href="#" class="theme-btn">Select Plan</a>
+                            <a href="/chceckoutk" class="theme-btn">Wybierz Plan</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 pricing-block">
                     <div class="pricing-table">
                         <div class="table-header">
-                            <h1>$40<span>/mo</span></h1>
-                            <h4>Last Session</h4>
+                            <h1>250zł<span></span></h1>
+                            <h4>Warsztaty Online</h4>
                             <div class="text">Lorem ipsum dolor amet consectetur do adipisicing  sed.</div>
                         </div>
                         <div class="table-content">
@@ -83,7 +83,7 @@
                             </ul>
                         </div>
                         <div class="table-footer">
-                            <a href="#" class="theme-btn">Select Plan</a>
+                            <a href="/chceckoutwo" class="theme-btn">Wybierz Plan</a>
                         </div>
                     </div>
                 </div>

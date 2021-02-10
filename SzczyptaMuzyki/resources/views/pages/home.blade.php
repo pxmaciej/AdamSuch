@@ -1,11 +1,6 @@
 @extends('layouts.app')
 @section('content')
 <!-- page wrapper -->
-
-    <!-- .preloader -->
-    <div class="preloader"></div>
-    <!-- /.preloader -->
-    <!-- main-slider -->
     <section class="main-slider">
         <div class="main-slider-carousel owl-carousel owl-theme nav-style-one">
 
@@ -13,9 +8,8 @@
                 <div class="container">
                     <div class="content-box">
                         <h3>Najlepszy Wybór</h3>
-                        <h1>Edukacja Muzyczna Dzieci</h1>
-                        <div class="text">Cupidatat non proident sunt culpa qui officia deserunt<br />mollit anim idest laborum</div>
-                        <div class="btn-box"><a href="contact.html" class="theme-btn">Contact us</a></div>
+                        <h1 class="text-white">Edukacja Muzyczna Dzieci</h1>
+                        <div class="btn-box"><a href="/contact" class="theme-btn">Kontakt</a></div>
                     </div>
                 </div>
             </div>
@@ -23,9 +17,8 @@
                 <div class="container">
                     <div class="content-box">
                         <h3>Best Choise</h3>
-                        <h1>Make Your Children's Life Special</h1>
-                        <div class="text">Cupidatat non proident sunt culpa qui officia deserunt<br />mollit anim idest laborum</div>
-                        <div class="btn-box"><a href="contact.html" class="theme-btn">Contact us</a></div>
+                        <h1 class="text-white">Make Your Children's Life Special</h1>
+                        <div class="btn-box"><a href="/contact" class="theme-btn">Kontakt</a></div>
                     </div>
                 </div>
             </div>
@@ -33,9 +26,8 @@
                 <div class="container">
                     <div class="content-box">
                         <h3>Best Choise</h3>
-                        <h1>Make Your Children's Life Special</h1>
-                        <div class="text">Cupidatat non proident sunt culpa qui officia deserunt<br />mollit anim idest laborum</div>
-                        <div class="btn-box"><a href="contact.html" class="theme-btn">Contact us</a></div>
+                        <h1 class="text-white">Make Your Children's Life Special</h1>
+                        <div class="btn-box"><a href="/contact" class="theme-btn">Kontakt</a></div>
                     </div>
                 </div>
             </div>
@@ -63,22 +55,18 @@
                 <div class="col-lg-6 col-md-12 col-sm-12 content-column">
                     <div class="content-box">
                         <div class="sec-title style-two">
-                            <h5>O Mnie</h5>
+                            <h5>Informacje</h5>
                             <h1>Witamy w serwisie Szczypta muzyki</h1>
                         </div>
                         <div class="bold-text">„Muzyka to najlepszy język do poruszania serc ludzi na całym świecie.”<p class="font-italic text-right">Jimmy Page</p></div>
                         <div class="text">
-                            <p>Nazywam się Adam i pochodzę z Legnicy.
-                                Od prawie dwudziestu lat moją pasją jest gra na bębnach afrykańskich różnego pochodzenia.
-                                Talent do gry na instrumentach perkusyjnych odkryłem w 2002 roku i kształciłem go od najlepszych instruktorów.
-                                Doświadczenie zawodowe zdobywałem grając na bębnach podczas różnych imprez tematycznych i okolicznościowych z muzykami z całej Polski i Europy.
-                                Moją pasję przełożyłem na pracę z dziećmi i młodzieżą.
-                                Od kilku lat prowadzę warsztaty muzyczne dla dzieci w przedszkolach i szkołach w całej Polsce.
-                                Nieustannie pragnę dzielić się swoją wiedzą i doświadczeniem z młodym pokoleniem.
-                                Muzyka jest esencją mojego życia - miłość do niej pozwoliła mi przezwyciężyć wszystkie przeciwności losu.
-                                Zapraszam do wspólnej podróży muzycznej.</p>
+                            <p>Strona <strong> SZCZYPTA MUZYKI </strong> powstała z pasji do muzyki oraz potrzeby szerzenia edukacji muzycznej wśród najmłodszych dzieci.
+                                Oferta skierowana jest dla dzieci zarówno w szkole, jak i w przedszkolu.
+                                Warsztaty mają na celu pobudzenie u dzieci kreatywności i twórczości w kontakcie z muzyką.
+                                W ofercie zarówno warsztaty stacjonarne z możliwością dojazdu do placówki w dowolnym miejscu w Polsce jak i - warsztaty on-line.
+                                Serdecznie zapraszam!</p>
                         </div>
-                        <div class="btn-box"><a href="/contact" class="theme-btn">Kontakt</a></div>
+                        <div class="btn-box"><a href="/class" class="theme-btn">Warsztaty</a></div>
                     </div>
                 </div>
             </div>
@@ -92,12 +80,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-md-12 col-sm-12 inner-column">
-                    <div class="inner-content">
-                        <div class="sec-title style-two">
+                    <div class="inner-content warsztaty mt-2">
+                        <div class="sec-title style-two pt-4">
                             <h5>Usługi</h5>
                             <h1>Warsztaty Muzyczne</h1>
                         </div>
-                        <div class="text">Warsztaty Online mogą zastąpić lub być alternatywą innych form nauki gry na bębnach.</div>
                     </div>
                 </div>
                 <div class="col-lg-8 col-md-12 col-sm-12 carousel-column">
@@ -146,15 +133,15 @@
             <div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-12 block-column">
                     <div class="inner-block wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-                        <figure class="image-box"><a href="class-details.html"><img src="images/resource/class-1.jpg" alt=""></a></figure>
+                        <figure class="image-box"><a href="class-details.html"><img src="images/resource/class-5.jpg" alt=""></a></figure>
                         <div class="lower-content">
                             <div class="link-btn"><a href="class-details.html"><i class="flaticon-next"></i></a></div>
-                            <h3><a href="class-details.html">Music Lessons</a></h3>
-                            <div class="price">$480</div>
-                            <div class="text">Lorem ipsum dolor sit amet, consectetur pisicelit sed do eiusmod tempor incidie labore magna aliqua.</div>
+                            <h3><a href="class-details.html">Warsztaty gry na bębnach</a></h3>
+                            <div class="price">450zł</div>
+                            <div class="text">Stacjonarne Afrykański arabskie itp... w czasie pandemi osobne mniejsze grupy</div>
                             <ul class="info-box">
-                                <li>Age: <span>2-4 Years</span></li>
-                                <li>Size: <span>12 Seats</span></li>
+                                <li>Wiek: <span>3-6 lat</span></li>
+                                <li>Grupa: <span> 25</span></li>
                             </ul>
                         </div>
                     </div>
@@ -164,12 +151,12 @@
                         <figure class="image-box"><a href="class-details.html"><img src="images/resource/class-2.jpg" alt=""></a></figure>
                         <div class="lower-content">
                             <div class="link-btn"><a href="class-details.html"><i class="flaticon-next"></i></a></div>
-                            <h3><a href="class-details.html">Paper Plates Art</a></h3>
-                            <div class="price">$580</div>
-                            <div class="text">Lorem ipsum dolor sit amet, consectetur pisicelit sed do eiusmod tempor incidie labore magna aliqua.</div>
+                            <h3><a href="class-details.html">Koncert</a></h3>
+                            <div class="price">450zł</div>
+                            <div class="text">Koncert stacjonarnie.</div>
                             <ul class="info-box">
-                                <li>Age: <span>2-4 Years</span></li>
-                                <li>Size: <span>12 Seats</span></li>
+                                <li>Wiek: <span>od 3 Lat</span></li>
+                                <li>Grupa: <span>25-*</span></li>
                             </ul>
                         </div>
                     </div>
@@ -179,12 +166,11 @@
                         <figure class="image-box"><a href="class-details.html"><img src="images/resource/class-3.jpg" alt=""></a></figure>
                         <div class="lower-content">
                             <div class="link-btn"><a href="class-details.html"><i class="flaticon-next"></i></a></div>
-                            <h3><a href="class-details.html">Education Lessons</a></h3>
-                            <div class="price">$550</div>
+                            <h3><a href="class-details.html">Warsztaty Online</a></h3>
+                            <div class="price">250zł</div>
                             <div class="text">Lorem ipsum dolor sit amet, consectetur pisicelit sed do eiusmod tempor incidie labore magna aliqua.</div>
                             <ul class="info-box">
-                                <li>Age: <span>2-4 Years</span></li>
-                                <li>Size: <span>12 Seats</span></li>
+                                <li>Wiek: <span>3-* lat</span></li>
                             </ul>
                         </div>
                     </div>
@@ -251,7 +237,7 @@
                             </div>
                             <div class="lower-content">
                                 <h3><a href="#">Adam Such</a></h3>
-                                <span class="designation">Teacher</span>
+                                <span class="designation">Instruktor</span>
                                 <ul class="social-list">
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
@@ -285,9 +271,9 @@
                         <div class="inner-box">
                             <figure class="image-box"><a href="event-details.html"><img src="storage/events/{{$event->img_name}}" alt=""></a></figure>
                             <div class="content-box">
-                                <div class="date">10 July, 2019</div>
+                                <div class="date">{{$event->start_date}}</div>
                                 <h3><a href="event-details.html">{{$event->title}}</a></h3>
-                                <div class="text">{{$event->body}}</div>
+                                <div class="text">{{$event->content}}</div>
                             </div>
                         </div>
                     </div>

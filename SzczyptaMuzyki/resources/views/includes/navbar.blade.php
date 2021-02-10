@@ -67,7 +67,7 @@
         <div class="container">
             <div class="clearfix">
                 <div class="logo-box pull-left">
-                    <figure class="logo"><a href="index"><img src="{{ asset('images/logo.png')}}" alt=""></a></figure>
+                    <figure class="logo"><a href="/"><img src="{{ asset('images/logo.png')}}" alt=""></a></figure>
                 </div>
                 <div class="nav-outer pull-right clearfix">
                     <div class="menu-area">
@@ -94,14 +94,6 @@
                             </div>
                         </nav>
                     </div>
-                    <div class="outer-box">
-                        <ul class="outer-content">
-                            <li class="header-flyout-searchbar">
-                                <i class="fa fa-search"></i>
-                            </li>
-                            <li><a href="/chceckout"><i class="fas fa-shopping-cart"></i></a></li>
-                        </ul>
-                    </div>
                 </div>
             </div>
         </div>
@@ -110,7 +102,7 @@
     <!--Sticky Header-->
     <div class="sticky-header">
         <div class="container clearfix">
-            <figure class="logo-box"><a href="index"><img src="images/small-logo.png" alt=""></a></figure>
+            <figure class="logo-box"><a href="/"><img src="images/small-logo.png" alt=""></a></figure>
             <div class="menu-area">
                 <nav class="main-menu navbar-expand-lg">
                     <div class="navbar-header">

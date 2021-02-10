@@ -319,8 +319,8 @@
                     <div class="content-box">
                         <div class="title-box">
                             <div class="sec-title style-two">
-                                <h5>Activities</h5>
-                                <h1>Kids Activities</h1>
+                                <h5>Aktywności</h5>
+                                <h1>Aktywności podczas warsztatów</h1>
                             </div>
                             <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod tempor incid idunt labore dolore magna aliqua enim ad minim veniam.</div>
                         </div>
@@ -329,28 +329,28 @@
                                 <div class="col-lg-6 col-md-6 col-sm-12 column">
                                     <div class="single-item wow fadeInLeft" data-wow-delay="00ms" data-wow-duration="1500ms">
                                         <div class="icon-box"><i class="flaticon-abc-block"></i></div>
-                                        <h3><a href="#">Full Day Session</a></h3>
+                                        <h3><a href="#">Rozwija skupienie, wydłuża czas koncentracji</a></h3>
                                         <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 column">
                                     <div class="single-item wow fadeInRight" data-wow-delay="00ms" data-wow-duration="1500ms">
                                         <div class="icon-box"><i class="flaticon-teddy-bear"></i></div>
-                                        <h3><a href="#">Table/Floor Toys</a></h3>
+                                        <h3><a href="#">Integracja grupy poprzez wspólną kreatywność</a></h3>
                                         <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 column">
                                     <div class="single-item wow fadeInLeft" data-wow-delay="00ms" data-wow-duration="1500ms">
                                         <div class="icon-box"><i class="flaticon-championship"></i></div>
-                                        <h3><a href="#">Outdoor Games</a></h3>
+                                        <h3><a href="#">Relaksacja, redukcja napięcia emocjonalnego,</a></h3>
                                         <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 column">
                                     <div class="single-item wow fadeInRight" data-wow-delay="00ms" data-wow-duration="1500ms">
                                         <div class="icon-box"><i class="flaticon-playground"></i></div>
-                                        <h3><a href="#">Play Area</a></h3>
+                                        <h3><a href="#">Poprawienie koordynacji ruchowej</a></h3>
                                         <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor </div>
                                     </div>
                                 </div>

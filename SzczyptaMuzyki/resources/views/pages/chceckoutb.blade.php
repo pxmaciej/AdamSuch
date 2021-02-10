@@ -31,8 +31,8 @@
                                 <input type="hidden" name="z24_crc" value="KLUCZ_ZAKUPU">
                                 <input type="hidden" name="z24_return_url" value="szczyptamuzyki.pl">
                                 <input type="hidden" name="z24_language" value="pl">
-                                <input type="hidden" name="z24_nazwa" value="Warsztaty_Stacjonarne">
-                                <input type="hidden" name="z24_kwota" value="45000"><!--KWOTA W GROSZACH-->
+                                <input type="hidden" name="z24_nazwa" value="Warsztaty_Online">
+                                <input type="hidden" name="z24_kwota" value="25000"><!--KWOTA W GROSZACH-->
                                 <input type="submit" id="submit-form" class="invisible" />
                                 <div class="row">
                                     <div class="col-lg-6 col-md-6 col-sm-12 form-group">
@@ -102,20 +102,20 @@
                             <h4 class="sub-title">Zamównie</h4>
                             <div class="order-product">
                                 <div class="single-item">
-                                    <figure class="image-box"><a href="#"><img src="images/resource/shop/cart-1.jpg" alt=""></a></figure>
+                                    <figure class="image-box"><a href="#"><img src="images/resource/shop/cart-3.jpg" alt=""></a></figure>
                                     <div class="text clearfix">
-                                        <h4>Warsztaty Stacjonarne</h4>
-                                        <span>450.00zł</span>
+                                        <h4>Warsztaty Online</h4>
+                                        <span>250.00zł</span>
                                     </div>
                                 </div>
                                 <div class="amount-box">
                                     <div class="text clearfix">
                                         <h4>Podsumowanie</h4>
-                                        <span>450.00zł</span>
+                                        <span>250.00zł</span>
                                     </div>
                                     <div class="text clearfix">
                                         <h4>Do zapłaty</h4>
-                                        <span class="order-parice">450.00zł</span>
+                                        <span class="order-parice">250.00zł</span>
                                     </div>
                                 </div>
                             </div>

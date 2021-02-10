@@ -21,9 +21,9 @@
         <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-12 block-column">
                 <div class="inner-block wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-                    <figure class="image-box"><a href="class-details.html"><img src="images/resource/class-1.jpg" alt=""></a></figure>
+                    <figure class="image-box"><a href="/class-detail"><img src="images/resource/class-5.jpg" alt=""></a></figure>
                     <div class="lower-content">
-                        <div class="link-btn"><a href="class-details.html"><i class="flaticon-next"></i></a></div>
+                        <div class="link-btn"><a href="/class-detail"><i class="flaticon-next"></i></a></div>
                         <h3><a href="class-details.html">Music Lessons</a></h3>
                         <div class="price">$480</div>
                         <div class="text">Lorem ipsum dolor sit amet, consectetur pisicelit sed do eiusmod tempor incidie labore magna aliqua.</div>
@@ -64,6 +64,7 @@
                     </div>
                 </div>
             </div>
+            <!--
             <div class="col-lg-4 col-md-6 col-sm-12 block-column">
                 <div class="inner-block wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                     <figure class="image-box"><a href="class-details.html"><img src="images/resource/class-4.jpg" alt=""></a></figure>
@@ -109,6 +110,7 @@
                     </div>
                 </div>
             </div>
+        -->
         </div>
     </div>
 </section>

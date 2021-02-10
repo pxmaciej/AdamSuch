@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Checkout;
 use App\Models\Eventupload;
 use App\Models\Fileupload;
 use App\Models\User;
@@ -29,7 +30,8 @@ class HomeController extends Controller
         $savedevent = Eventupload::orderBy('id','DESC')->get();
         $savedfile = Fileupload::orderBy('id','DESC')->get();
         $users = User::orderBy('id','DESC')->get();
-        return view('dashadmin')->with('savedfile', $savedfile)->with('savedevent', $savedevent)->with('users', $users);
+        $checkouts = Checkout::orderBy('id','DESC')->get();
+        return view('dashadmin')->with('savedfile', $savedfile)->with('savedevent', $savedevent)->with('users', $users)->with('checkouts', $checkouts);
     }
 
 }

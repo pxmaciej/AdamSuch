@@ -34,7 +34,7 @@
                                     <li><a href="/pricing">Cennik</a></li>
                                     <li><a href="/contact">Kontakt</a></li>
                                     <li><a href="/gallery">Nasza Galeria</a></li>
-                                    <li><a href="#">Polityka Prywatności</a></li>
+                                    <li><a href="/politic">Polityka Prywatności</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -55,7 +55,7 @@
                         <div class="subscribe-widget footer-widget">
                             <h3 class="widget-title">Subskrybuj już Teraz</h3>
                             <div class="widget-content">
-                                <div class="text">Lorem ipsum dolor sit amet, consecte- tur adipisicing elit sed do eiusmod.</div>
+                                <div class="text">Dowiedz się o promocjach!</div>
                                 <div class="subscribe-inner">
                                     <form action="#" method="post" class="subscribe-form">
                                         <div class="form-group">

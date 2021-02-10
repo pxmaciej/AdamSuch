@@ -31,7 +31,7 @@
                                 <input type="hidden" name="z24_crc" value="KLUCZ_ZAKUPU">
                                 <input type="hidden" name="z24_return_url" value="szczyptamuzyki.pl">
                                 <input type="hidden" name="z24_language" value="pl">
-                                <input type="hidden" name="z24_nazwa" value="Warsztaty_Stacjonarne">
+                                <input type="hidden" name="z24_nazwa" value="Koncert">
                                 <input type="hidden" name="z24_kwota" value="45000"><!--KWOTA W GROSZACH-->
                                 <input type="submit" id="submit-form" class="invisible" />
                                 <div class="row">
@@ -102,9 +102,9 @@
                             <h4 class="sub-title">Zamównie</h4>
                             <div class="order-product">
                                 <div class="single-item">
-                                    <figure class="image-box"><a href="#"><img src="images/resource/shop/cart-1.jpg" alt=""></a></figure>
+                                    <figure class="image-box"><a href="#"><img src="images/resource/shop/cart-2.jpg" alt=""></a></figure>
                                     <div class="text clearfix">
-                                        <h4>Warsztaty Stacjonarne</h4>
+                                        <h4>Koncert</h4>
                                         <span>450.00zł</span>
                                     </div>
                                 </div>

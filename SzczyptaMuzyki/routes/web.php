@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\CheckoutController;
 use App\Http\Controllers\Controller;
 use App\Http\Controllers\EventDetailController;
 use App\Http\Controllers\EventuploadController;
@@ -45,11 +46,19 @@ Route::get('/event-details', function () {
 Route::get('/contact', function () {
     return view('.pages.contact');
 });
-Route::get('/chceckout', function () {
+Route::get('/chceckoutws', function () {
     return view('.pages.chceckout');
 });
+Route::get('/chceckoutk', function () {
+    return view('.pages.chceckouta');
+});
+Route::get('/chceckoutwo', function () {
+    return view('.pages.chceckoutb');
+});
 
-
+Route::get('/politic', function () {
+    return view('.pages.politic');
+});
 
 Route::get('/event-details/{eventid}', [EventDetailController::class, 'detailEvent']);
 
@@ -64,5 +73,7 @@ Route::resource('eventupload', EventuploadController::class);
 Route::get('/dashadmin', [App\Http\Controllers\HomeController::class, 'index'])->middleware('admin');
 
 Route::resource('deleteuser', UserController::class);
+
+Route::resource('billing', CheckoutController::class);
 
 Auth::routes();
