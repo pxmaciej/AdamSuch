@@ -64,7 +64,7 @@
                             </li>
                             <li>
                                 <h5>Email:</h5>
-                                <a href="mailto:info@example.com">info@example.com</a>
+                                <a href="mailto:kontakt@szczyptamuzyki.pl">kontakt@szczyptamuzyki.pl</a>
                             </li>
                         </ul>
                     </div>

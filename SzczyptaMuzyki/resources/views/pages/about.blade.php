@@ -28,13 +28,19 @@
                     <div class="content-box">
                         <div class="sec-title style-two">
                             <h5>O Nas</h5>
-                            <h1>Welcome to Kidko Kindergarten</h1>
+                            <h1>Nazywam się Adam pochodzę z Legnicy</h1>
                         </div>
-                        <div class="bold-text">Cupidatat non proident sunt culpa qui officia deserunt mollit anim idest laborum</div>
+                        <div class="bold-text">Od prawie dwudziestu lat moją pasją jest gra na bębnach afrykańskich różnego pochodzenia.</div>
                         <div class="text">
-                            <p>Cupidatat non proident sunt culpa qui officia deserunt mollit anim idest laborum sed ut perspiciatis unde omnis iste natuserror sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae.</p>
+                            <p>Talent do gry na instrumentach perkusyjnych odkryłem w 2002 roku i kształciłem go od najlepszych instruktorów.
+                                Doświadczenie zawodowe zdobywałem grając na bębnach podczas różnych imprez tematycznych i okolicznościowych z muzykami z całej Polski i Europy.
+                                Moją pasję przełożyłem na pracę z dziećmi i młodzieżą.
+                                Od kilku lat prowadzę warsztaty muzyczne dla dzieci w przedszkolach i szkołach w całej Polsce.
+                                Nieustannie pragnę dzielić się swoją wiedzą i doświadczeniem z młodym pokoleniem.
+                                Muzyka jest esencją mojego życia - miłość do niej pozwoliła mi przezwyciężyć wszystkie przeciwności losu.
+                                Zapraszam do wspólnej podróży muzycznej.</p>
                         </div>
-                        <div class="btn-box"><a href="contact.html" class="theme-btn">Contact us</a></div>
+                        <div class="btn-box"><a href="/contact" class="theme-btn">Kontakt</a></div>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12 col-sm-12 image-column">
@@ -62,48 +68,48 @@
         </div>
         <div class="container">
             <div class="sec-title centred">
-                <h5>Classess</h5>
-                <h1>Education for Your<br />Children</h1>
+                <h5>Zajęcia</h5>
+                <h1>Edukacja dla Twojego<br />Dziecka</h1>
             </div>
             <div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-12 block-column">
                     <div class="inner-block wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-                        <figure class="image-box"><a href="class-details.html"><img src="images/resource/class-1.jpg" alt=""></a></figure>
+                        <figure class="image-box"><a href="/class-details/1"><img src="images/resource/class-1.jpg" alt=""></a></figure>
                         <div class="lower-content">
-                            <div class="link-btn"><a href="class-details.html"><i class="flaticon-next"></i></a></div>
-                            <h3><a href="class-details.html">Music Lessons</a></h3>
-                            <div class="price">$480</div>
+                            <div class="link-btn"><a href="/class-details/1"><i class="flaticon-next"></i></a></div>
+                            <h3><a href="/class-details/1">Warsztaty Stacjonarne</a></h3>
+                            <div class="price"><s>750zł</s> 450zł</div>
                             <ul class="info-box">
-                                <li>Age: <span>2-4 Years</span></li>
-                                <li>Size: <span>12 Seats</span></li>
+                                <li>Wiek: <span>3-6 lat</span></li>
+                                <li>Grupa: <span> 25</span></li>
                             </ul>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 block-column">
                     <div class="inner-block wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-                        <figure class="image-box"><a href="class-details.html"><img src="images/resource/class-2.jpg" alt=""></a></figure>
+                        <figure class="image-box"><a href="/class-details/2"><img src="images/resource/class-2.jpg" alt=""></a></figure>
                         <div class="lower-content">
-                            <div class="link-btn"><a href="class-details.html"><i class="flaticon-next"></i></a></div>
-                            <h3><a href="class-details.html">Paper Plates Art</a></h3>
-                            <div class="price">$580</div>
+                            <div class="link-btn"><a href="/class-details/2"><i class="flaticon-next"></i></a></div>
+                            <h3><a href="/class-details/2">Koncert</a></h3>
+                            <div class="price"><s>750zł</s> 450zł</div>
                             <ul class="info-box">
-                                <li>Age: <span>2-4 Years</span></li>
-                                <li>Size: <span>12 Seats</span></li>
+                                <li>Wiek: <span>od 3 Lat</span></li>
+                                <li>Grupa: <span>25-*</span></li>
                             </ul>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 block-column">
                     <div class="inner-block wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
-                        <figure class="image-box"><a href="class-details.html"><img src="images/resource/class-3.jpg" alt=""></a></figure>
+                        <figure class="image-box"><a href="/class-details/3"><img src="images/resource/class-3.jpg" alt=""></a></figure>
                         <div class="lower-content">
-                            <div class="link-btn"><a href="class-details.html"><i class="flaticon-next"></i></a></div>
-                            <h3><a href="class-details.html">Education Lessons</a></h3>
-                            <div class="price">$550</div>
+                            <div class="link-btn"><a href="/class-details/3"><i class="flaticon-next"></i></a></div>
+                            <h3><a href="/class-details/3">Warsztaty Online</a></h3>
+                            <div class="price"><s>450zł</s> 250zł</div>
                             <ul class="info-box">
-                                <li>Age: <span>2-4 Years</span></li>
-                                <li>Size: <span>12 Seats</span></li>
+                                <li>Wiek: <span>3-* lat</span></li>
+                                <li>Grupa: <span>*</span></li>
                             </ul>
                         </div>
                     </div>
@@ -118,8 +124,8 @@
     <section class="our-teachers style-three about-page sec-pad centred">
         <div class="container">
             <div class="sec-title">
-                <h5>Teachers</h5>
-                <h1>World Best Teacher<br />Will Teach</h1>
+                <h5>Prowadzący</h5>
+                <h1>Nasz specjalista<br />od Muzyki</h1>
             </div>
             <div class="inner-content">
                 <div class="row">
@@ -134,7 +140,6 @@
                                         <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                         <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                         <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -156,8 +161,8 @@
             <div class="testimonial-column">
                 <div class="testimonial-content">
                     <div class="sec-title style-two">
-                        <h5>Testimonials</h5>
-                        <h1>Happy Parents Say</h1>
+                        <h5>Opinie</h5>
+                        <h1>Co o nas mówią</h1>
                     </div>
                     <div class="inner-content">
                         <div class="client-testimonial-carousel owl-carousel owl-theme">
@@ -288,7 +293,7 @@
                         <div class="count-outer count-box">
                             <span class="count-text" data-speed="1500" data-stop="125">0</span>
                         </div>
-                        <div class="text">Total Sessions</div>
+                        <div class="text">Ilość Zajęć</div>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 counter-column">
@@ -297,7 +302,7 @@
                         <div class="count-outer count-box">
                             <span class="count-text" data-speed="1500" data-stop="750">0</span>
                         </div>
-                        <div class="text">Total Students</div>
+                        <div class="text">Przeprowadzonych Warsztatów</div>
                     </div>
                 </div>
             </div>
@@ -322,36 +327,36 @@
                                 <h5>Aktywności</h5>
                                 <h1>Aktywności podczas warsztatów</h1>
                             </div>
-                            <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod tempor incid idunt labore dolore magna aliqua enim ad minim veniam.</div>
+                            <div class="text"> O ile nie każde ucho słyszy subtelności linii melodycznej, o tyle rytm i wibracja odczuwane są nawet przez niesłyszących.</div>
                         </div>
                         <div class="inner-box">
                             <div class="row">
                                 <div class="col-lg-6 col-md-6 col-sm-12 column">
                                     <div class="single-item wow fadeInLeft" data-wow-delay="00ms" data-wow-duration="1500ms">
                                         <div class="icon-box"><i class="flaticon-abc-block"></i></div>
-                                        <h3><a href="#">Rozwija skupienie, wydłuża czas koncentracji</a></h3>
-                                        <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor </div>
+                                        <h3><a href="/pricing">Rozwija skupienie, wydłuża czas koncentracji</a></h3>
+                                        <div class="text">Rytm bębna potrafi wprowadzić w trans, co było i jest nadal stosowane od tysięcy lat przez kultury pierwotne podczas wszelakich rytuałów plemiennych</div>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 column">
                                     <div class="single-item wow fadeInRight" data-wow-delay="00ms" data-wow-duration="1500ms">
                                         <div class="icon-box"><i class="flaticon-teddy-bear"></i></div>
                                         <h3><a href="#">Integracja grupy poprzez wspólną kreatywność</a></h3>
-                                        <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor </div>
+                                        <div class="text">Wiele osób uczestniczących w warsztatach podchodzi z pewną dozą dystansu i nieśmiałości. Jednak wspólny rytm jest tak porywający, że osoby takie szybko przełamują swoje wyobrażenia o sobie i dają się ponieść wspólnemu bębnieniu</div>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 column">
                                     <div class="single-item wow fadeInLeft" data-wow-delay="00ms" data-wow-duration="1500ms">
-                                        <div class="icon-box"><i class="flaticon-championship"></i></div>
-                                        <h3><a href="#">Relaksacja, redukcja napięcia emocjonalnego,</a></h3>
-                                        <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor </div>
+                                        <div class="icon-box"><i class="far fa-laugh-wink"></i></div>
+                                        <h3><a href="/pricing">Relaksacja, redukcja napięcia emocjonalnego</a></h3>
+                                        <div class="text">Każdego dnia doświadczamy najróżniejszych sytuacji stresogennych. Pozwólmy napięciom wybrzmieć się na membranie</div>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 column">
                                     <div class="single-item wow fadeInRight" data-wow-delay="00ms" data-wow-duration="1500ms">
-                                        <div class="icon-box"><i class="flaticon-playground"></i></div>
-                                        <h3><a href="#">Poprawienie koordynacji ruchowej</a></h3>
-                                        <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor </div>
+                                        <div class="icon-box"><i class="fas fa-running"></i></div>
+                                        <h3><a href="/pricing">Poprawienie koordynacji ruchowej</a></h3>
+                                        <div class="text">W trakcie bębnienia obie ręce mają do wykonania tak wiele różnych zadań, że mózg zmuszony jest zwiększyć przepływ impulsów pomiędzy półkulami</div>
                                     </div>
                                 </div>
                             </div>

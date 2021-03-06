@@ -16,8 +16,8 @@
             <div class="slide" style="background-image:url(images/main-slider/slider-2.jpg)">
                 <div class="container">
                     <div class="content-box">
-                        <h3>Best Choise</h3>
-                        <h1 class="text-white">Make Your Children's Life Special</h1>
+                        <h3>Warsztaty</h3>
+                        <h1 class="text-white">Warsztaty Online!</h1>
                         <div class="btn-box"><a href="/contact" class="theme-btn">Kontakt</a></div>
                     </div>
                 </div>
@@ -25,8 +25,8 @@
             <div class="slide" style="background-image:url(images/main-slider/slider-3.jpg)">
                 <div class="container">
                     <div class="content-box">
-                        <h3>Best Choise</h3>
-                        <h1 class="text-white">Make Your Children's Life Special</h1>
+                        <h3>Wyjątkowa Oferta</h3>
+                        <h1 class="text-white">Kreatywne zajęcia dla Twojego dziecka</h1>
                         <div class="btn-box"><a href="/contact" class="theme-btn">Kontakt</a></div>
                     </div>
                 </div>
@@ -94,21 +94,21 @@
                                 <div class="inner-box">
                                     <div class="icon-box"><i class="fas fa-music"></i></div>
                                     <h3><a href="#">Koncerty</a></h3>
-                                    <div class="text">Cupidatat non proident sunt culpa qui officia deserunt mollit anim.</div>
+                                    <div class="text">Wybierz nadchodzące wydarzenie i obejrzyj je na własnym ekranie</div>
                                 </div>
                             </div>
                             <div class="service-block-one">
                                 <div class="inner-box">
                                     <div class="icon-box"><i class="fas fa-graduation-cap"></i></div>
                                     <h3><a href="#">Lekcje Online</a></h3>
-                                    <div class="text">Cupidatat non proident sunt culpa qui officia deserunt mollit anim.</div>
+                                    <div class="text">Zobaczcie nasze warsztaty internetowe wypełnione dobrą zabawą</div>
                                 </div>
                             </div>
                             <div class="service-block-one">
                                 <div class="inner-box">
                                     <div class="icon-box"><i class="flaticon-drum"></i></div>
                                     <h3><a href="#">Lekcje Rytmiki</a></h3>
-                                    <div class="text">Cupidatat non proident sunt culpa qui officia deserunt mollit anim.</div>
+                                    <div class="text">Pobudź kreatywność biorąc instrument do rąk</div>
                                 </div>
                             </div>
                         </div>
@@ -133,12 +133,12 @@
             <div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-12 block-column">
                     <div class="inner-block wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-                        <figure class="image-box"><a href="class-details.html"><img src="images/resource/class-5.jpg" alt=""></a></figure>
+                        <figure class="image-box"><a href="/class-details/1"><img src="images/resource/class-5.jpg" alt=""></a></figure>
                         <div class="lower-content">
-                            <div class="link-btn"><a href="class-details.html"><i class="flaticon-next"></i></a></div>
-                            <h3><a href="class-details.html">Warsztaty gry na bębnach</a></h3>
-                            <div class="price">450zł</div>
-                            <div class="text">Stacjonarne Afrykański arabskie itp... w czasie pandemi osobne mniejsze grupy</div>
+                            <div class="link-btn"><a href="/class-details/1"><i class="flaticon-next"></i></a></div>
+                            <h3><a href="/class-details/1">Warsztaty gry na bębnach</a></h3>
+                            <div class="price"><s>750zł</s> 450zł</div>
+                            <div class="text">Warsztaty to niepowtarzalna okazja do zrozumienia, wygrywania i przeżywania energetycznych rytmów z Afryki Zachodniej.</div>
                             <ul class="info-box">
                                 <li>Wiek: <span>3-6 lat</span></li>
                                 <li>Grupa: <span> 25</span></li>
@@ -148,12 +148,12 @@
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 block-column">
                     <div class="inner-block wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-                        <figure class="image-box"><a href="class-details.html"><img src="images/resource/class-2.jpg" alt=""></a></figure>
+                        <figure class="image-box"><a href="/class-details/2"><img src="images/resource/class-2.jpg" alt=""></a></figure>
                         <div class="lower-content">
-                            <div class="link-btn"><a href="class-details.html"><i class="flaticon-next"></i></a></div>
-                            <h3><a href="class-details.html">Koncert</a></h3>
-                            <div class="price">450zł</div>
-                            <div class="text">Koncert stacjonarnie.</div>
+                            <div class="link-btn"><a href="/class-details/2"><i class="flaticon-next"></i></a></div>
+                            <h3><a href="/class-details/2">Koncert</a></h3>
+                            <div class="price"><s>750zł</s> 450zł</div>
+                            <div class="text">Wspólne bębnienie jest ponad podziałami kulturowymi i społecznymi, gdyż nie używa się w nim słów, a rytm rozumie i czuje każdy.</div>
                             <ul class="info-box">
                                 <li>Wiek: <span>od 3 Lat</span></li>
                                 <li>Grupa: <span>25-*</span></li>
@@ -163,14 +163,15 @@
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 block-column">
                     <div class="inner-block wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
-                        <figure class="image-box"><a href="class-details.html"><img src="images/resource/class-3.jpg" alt=""></a></figure>
+                        <figure class="image-box"><a href="/class-details/3"><img src="images/resource/class-3.jpg" alt=""></a></figure>
                         <div class="lower-content">
-                            <div class="link-btn"><a href="class-details.html"><i class="flaticon-next"></i></a></div>
-                            <h3><a href="class-details.html">Warsztaty Online</a></h3>
-                            <div class="price">250zł</div>
-                            <div class="text">Lorem ipsum dolor sit amet, consectetur pisicelit sed do eiusmod tempor incidie labore magna aliqua.</div>
+                            <div class="link-btn"><a href="/class-details/3"><i class="flaticon-next"></i></a></div>
+                            <h3><a href="/class-details/3">Warsztaty Online</a></h3>
+                            <div class="price"><s>450zł</s> 250zł</div>
+                            <div class="text">Dzięki prezentacjom nt. Afryki uruchamiamy wyobraźnię dzieci, dlatego bęben staje się nie tylko instrumentem muzycznym a jest sposobem na przeniesienie się do świata odległej kultury.</div>
                             <ul class="info-box">
                                 <li>Wiek: <span>3-* lat</span></li>
+                                <li>Grupa: <span>*</span></li>
                             </ul>
                         </div>
                     </div>
@@ -199,17 +200,17 @@
                         <div class="inner-box">
                             <div class="single-item wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                                 <div class="icon-box"><i class="fas fa-hourglass-end"></i></div>
-                                <h3><a href="#">Cenisz sobie czas</a></h3>
+                                <h3>Cenisz sobie czas</h3>
                                 <div class="text">Nie możesz lub nie chcesz brać udziału w systematycznych lekcjach stacjonarnych</div>
                             </div>
                             <div class="single-item wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                                 <div class="icon-box"><i class="fas fa-home"></i></div>
-                                <h3><a href="#">Lubisz ćwiczyć w domu</a></h3>
+                                <h3>Lubisz ćwiczyć w domu</h3>
                                 <div class="text">Potrzebujesz powtórzyć poznane już techniki gry na bębnach</div>
                             </div>
                             <div class="single-item wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                                 <div class="icon-box"><i class="fas fa-coins"></i></div>
-                                <h3><a href="#">Chcesz zaoszczędzić</a></h3>
+                                <h3>Chcesz zaoszczędzić</h3>
                                 <div class="text">Zainwestuj mniej niż w zajęcia stacjonarne</div>
                             </div>
                         </div>
@@ -242,7 +243,6 @@
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                     <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -418,7 +418,7 @@
                             <li class="accordion block">
                                 <div class="acc-btn active">
                                     <div class="icon-outer"><i class="fas fa-angle-down"></i></div>
-                                    <h4>Q. Is There a Sleep or Rtest Time?</h4>
+                                    <h4>Jak wziąć udział w warsztatach?</h4>
                                 </div>
                                 <div class="acc-content current">
                                     <div class="content">
@@ -429,7 +429,7 @@
                             <li class="accordion block">
                                 <div class="acc-btn">
                                     <div class="icon-outer"><i class="fas fa-angle-down"></i></div>
-                                    <h4>Q. Children in Need Armistice Day?</h4>
+                                    <h4>Na jak długo uzyskam dostęp?</h4>
                                 </div>
                                 <div class="acc-content">
                                     <div class="content">
@@ -440,7 +440,7 @@
                             <li class="accordion block">
                                  <div class="acc-btn">
                                     <div class="icon-outer"><i class="fas fa-angle-down"></i></div>
-                                    <h4>Q. Is Outdoor Play Supervised?</h4>
+                                    <h4>Czy mogę zmienić termin warsztatów?</h4>
                                 </div>
                                 <div class="acc-content">
                                     <div class="content">

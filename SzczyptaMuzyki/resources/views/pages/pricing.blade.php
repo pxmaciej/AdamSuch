@@ -27,17 +27,15 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 pricing-block">
                     <div class="pricing-table">
                         <div class="table-header">
-                            <h1>450zł<span></span></h1>
+                            <h1>450zł<span> <s>750zł</s></span></h1>
                             <h4>Warsztaty Stacjonarnie</h4>
-                            <div class="text">Lorem ipsum dolor amet consectetur do adipisicing  sed.</div>
+                            <div class="text">Warsztaty to niepowtarzalna okazja do zrozumienia, wygrywania i przeżywania energetycznych rytmów z Afryki Zachodniej.</div>
                         </div>
                         <div class="table-content">
                             <ul>
-                                <li>Languages: English, Spanish</li>
-                                <li>Cafeteria: Breakfast, Lunch</li>
-                                <li>Sport games and activities</li>
-                                <li>Camping on Mountains</li>
-                                <li>School Bus</li>
+                                <li>Dojazd</li>
+                                <li>Instrumenty dla grupy</li>
+                                <li>45 minut zajęć</li>
                             </ul>
                         </div>
                         <div class="table-footer">
@@ -48,17 +46,15 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 pricing-block">
                     <div class="pricing-table">
                         <div class="table-header">
-                            <h1>450zł<span></span></h1>
+                            <h1>450zł<span> <s>750zł</s></span></h1>
                             <h4>Koncert</h4>
-                            <div class="text">Lorem ipsum dolor amet consectetur do adipisicing  sed.</div>
+                            <div class="text">Wspólne bębnienie jest ponad podziałami kulturowymi i społecznymi, gdyż nie używa się w nim słów, a rytm rozumie i czuje każdy.</div>
                         </div>
                         <div class="table-content">
                             <ul>
-                                <li>Languages: English, Spanish</li>
-                                <li>Cafeteria: Breakfast, Lunch</li>
-                                <li>Sport games and activities</li>
-                                <li>Camping on Mountains</li>
-                                <li>School Bus</li>
+                                <li>Dojazd</li>
+                                <li>Sala</li>
+                                <li>120 minut zajęć</li>
                             </ul>
                         </div>
                         <div class="table-footer">
@@ -69,17 +65,14 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 pricing-block">
                     <div class="pricing-table">
                         <div class="table-header">
-                            <h1>250zł<span></span></h1>
+                            <h1>250zł<span> <s>450zł</s></span></h1>
                             <h4>Warsztaty Online</h4>
-                            <div class="text">Lorem ipsum dolor amet consectetur do adipisicing  sed.</div>
+                            <div class="text">Dzięki prezentacjom nt. Afryki uruchamiamy wyobraźnię dzieci, dlatego bęben staje się nie tylko instrumentem muzycznym a jest sposobem na przeniesienie się do świata odległej kultury.</div>
                         </div>
                         <div class="table-content">
                             <ul>
-                                <li>Languages: English, Spanish</li>
-                                <li>Cafeteria: Breakfast, Lunch</li>
-                                <li>Sport games and activities</li>
-                                <li>Camping on Mountains</li>
-                                <li>School Bus</li>
+                                <li>Ćwiczenia w domu</li>
+                                <li>Kontakt z Instruktorem</li>
                             </ul>
                         </div>
                         <div class="table-footer">

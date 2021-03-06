@@ -21,45 +21,45 @@
         <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-12 block-column">
                 <div class="inner-block wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-                    <figure class="image-box"><a href="/class-detail"><img src="images/resource/class-5.jpg" alt=""></a></figure>
+                    <figure class="image-box"><a href="/class-details/1"><img src="images/resource/class-5.jpg" alt=""></a></figure>
                     <div class="lower-content">
-                        <div class="link-btn"><a href="/class-detail"><i class="flaticon-next"></i></a></div>
-                        <h3><a href="class-details.html">Music Lessons</a></h3>
-                        <div class="price">$480</div>
-                        <div class="text">Lorem ipsum dolor sit amet, consectetur pisicelit sed do eiusmod tempor incidie labore magna aliqua.</div>
+                        <div class="link-btn"><a href="/class-details/1"><i class="flaticon-next"></i></a></div>
+                        <h3><a href="/class-details/1">Warsztaty Stacjonarne</a></h3>
+                        <div class="price"><s>750zł</s> 450zł</div>
+                        <div class="text">Warsztaty to niepowtarzalna okazja do zrozumienia, wygrywania i przeżywania energetycznych rytmów z Afryki Zachodniej.</div>
                         <ul class="info-box">
-                            <li>Age: <span>2-4 Years</span></li>
-                            <li>Size: <span>12 Seats</span></li>
+                            <li>Wiek: <span>3-6 lat</span></li>
+                            <li>Grupa: <span> 25</span></li>
                         </ul>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 block-column">
                 <div class="inner-block wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-                    <figure class="image-box"><a href="class-details.html"><img src="images/resource/class-2.jpg" alt=""></a></figure>
+                    <figure class="image-box"><a href="/class-details/2"><img src="images/resource/class-2.jpg" alt=""></a></figure>
                     <div class="lower-content">
-                        <div class="link-btn"><a href="class-details.html"><i class="flaticon-next"></i></a></div>
-                        <h3><a href="class-details.html">Paper Plates Art</a></h3>
-                        <div class="price">$580</div>
-                        <div class="text">Lorem ipsum dolor sit amet, consectetur pisicelit sed do eiusmod tempor incidie labore magna aliqua.</div>
+                        <div class="link-btn"><a href="/class-details/2"><i class="flaticon-next"></i></a></div>
+                        <h3><a href="/class-details/2">Koncerty</a></h3>
+                        <div class="price"><s>750zł</s> 450zł</div>
+                        <div class="text">Wspólne bębnienie jest ponad podziałami kulturowymi i społecznymi, gdyż nie używa się w nim słów, a rytm rozumie i czuje każdy.</div>
                         <ul class="info-box">
-                            <li>Age: <span>2-4 Years</span></li>
-                            <li>Size: <span>12 Seats</span></li>
+                            <li>Wiek: <span>od 3 Lat</span></li>
+                            <li>Grupa: <span>25-*</span></li>
                         </ul>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 block-column">
                 <div class="inner-block wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
-                    <figure class="image-box"><a href="class-details.html"><img src="images/resource/class-3.jpg" alt=""></a></figure>
+                    <figure class="image-box"><a href="/class-details/3"><img src="images/resource/class-3.jpg" alt=""></a></figure>
                     <div class="lower-content">
-                        <div class="link-btn"><a href="class-details.html"><i class="flaticon-next"></i></a></div>
-                        <h3><a href="class-details.html">Education Lessons</a></h3>
-                        <div class="price">$550</div>
-                        <div class="text">Lorem ipsum dolor sit amet, consectetur pisicelit sed do eiusmod tempor incidie labore magna aliqua.</div>
+                        <div class="link-btn"><a href="/class-details/3"><i class="flaticon-next"></i></a></div>
+                        <h3><a href="/class-details/3">Warsztaty Online</a></h3>
+                        <div class="price"><s>450zł</s> 250zł</div>
+                        <div class="text">Dzięki prezentacjom nt. Afryki uruchamiamy wyobraźnię dzieci, dlatego bęben staje się nie tylko instrumentem muzycznym a jest sposobem na przeniesienie się do świata odległej kultury.</div>
                         <ul class="info-box">
-                            <li>Age: <span>2-4 Years</span></li>
-                            <li>Size: <span>12 Seats</span></li>
+                            <li>Wiek: <span>3-* lat</span></li>
+                            <li>Grupa: <span>*</span></li>
                         </ul>
                     </div>
                 </div>
@@ -124,8 +124,8 @@
     </div>
     <div class="container">
         <div class="sec-title centred">
-            <h5>Testimonials</h5>
-            <h1>Happy Parents Say</h1>
+            <h5>Opinie</h5>
+            <h1>Co o nas mówią</h1>
         </div>
         <div class="testimonial-carousel owl-carousel owl-theme">
             <div class="testimonial-block-two">

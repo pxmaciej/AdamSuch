@@ -5257,19 +5257,7 @@ h3 a:hover{
   transition: all 1500ms ease;
 }
 
-.pricing-section .pricing-block:first-child .pricing-table .table-content li:last-child,
-.pricing-section .pricing-block:first-child .table-content li:nth-child(4),
-.pricing-section .pricing-block:nth-child(2) .pricing-table .table-content li:last-child{
-  color: #848484;
-}
 
-.pricing-section .pricing-block:first-child .pricing-table:first-child .table-content li:nth-child(4):before,
-.pricing-section .pricing-block:first-child .pricing-table:first-child .table-content li:last-child:before,
-.pricing-section .pricing-block:nth-child(2) .pricing-table:first-child .table-content li:last-child:before{
-  content: "\f122";
-  color: #848484;
-  font-size: 13px;
-}
 
 .pricing-section .pricing-table .table-footer{
   position: relative;

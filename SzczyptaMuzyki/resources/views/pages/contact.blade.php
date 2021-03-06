@@ -71,7 +71,8 @@
             <div class="row">
                 <div class="col-lg-8 col-md-12 col-sm-12 offset-lg-2 form-column">
                     <div class="contact-form">
-                        <form method="post" action="" id="contact-form" class="default-form">
+                        <form method="POST" action="/send" id="contact-form" class="default-form">
+                            @csrf
                             <div class="row">
                                 <div class="col-lg-6 col-md-12 col-sm-12 form-group">
                                     <input type="text" name="username" placeholder="Twoje imie*" required>

@@ -17,9 +17,7 @@
                             <h3 class="widget-title">O Projekcie</h3>
                             <div class="widget-content">
                                 <div class="text">
-                                  <p>Strona SZCZYPTA MUZYKI powstała z pasji do muzyki oraz potrzeby szerzenia edukacji muzycznej wśród najmłodszych dzieci.
-                                    Oferta skierowana jest dla dzieci zarówno w szkole, jak i w przedszkolu. Warsztaty mają na celu pobudzenie u dzieci kreatywności i twórczości w kontakcie z muzyką.
-                                     W ofercie zarówno warsztaty stacjonarne z możliwością dojazdu do placówki w dowolnym miejscu w Polsce jak i - warsztaty on-line. Serdecznie zapraszam!</p>
+                                  <p>Dofinansowanie z środków </p>
                                 </div>
                             </div>
                         </div>
@@ -53,16 +51,10 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
                         <div class="subscribe-widget footer-widget">
-                            <h3 class="widget-title">Subskrybuj już Teraz</h3>
+                            <h3 class="widget-title">Dołącz już Teraz</h3>
                             <div class="widget-content">
                                 <div class="text">Dowiedz się o promocjach!</div>
-                                <div class="subscribe-inner">
-                                    <form action="#" method="post" class="subscribe-form">
-                                        <div class="form-group">
-                                            <input type="email" name="email" placeholder="Podaj swój Email" required="">
-                                            <button type="submit" class="theme-btn">Zapisz się</button>
-                                        </div>
-                                    </form>
+                                   <a href="/pricing"> <button type="submit" class="theme-btn">Zapisz się</button></a>
                                 </div>
                             </div>
                         </div>
@@ -75,10 +67,10 @@
         <div class="container">
             <div class="inner-container clearfix">
                 <div class="left-content pull-left">
-                    <div class="copyright">Copyright &copy; <a href="#">Adam Such</a> 2021. All Rights Reserved</div>
+                    <div class="copyright">Copyright &copy; Adam Such 2021. All Rights Reserved</div>
                 </div>
                 <div class="right-content pull-right">
-                    <figure class="footer-logo"><a href="index.html"><img src="images/footer-logo.png" alt=""></a></figure>
+                    <figure class="footer-logo"><a href="/"><img src="images/footer-logo.png" alt=""></a></figure>
                     <ul class="social-style-one footer-social clearfix">
                         <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                         <li><a href="#"><i class="fab fa-twitter"></i></a></li>
