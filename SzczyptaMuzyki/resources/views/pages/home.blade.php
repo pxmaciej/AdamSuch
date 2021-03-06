@@ -303,7 +303,7 @@
                             <div class="client-testimonial-carousel owl-carousel owl-theme">
                                 <div class="testimonial-block">
                                     <div class="inner-box">
-                                        <div class="author">Hattie Bradly <span>/ Kids Fathre</span></div>
+                                        <div class="author">Publiczna Szkoła Podstawowa w Mierzynie<span></span></div>
                                         <ul class="rating">
                                             <li><i class="fas fa-star"></i></li>
                                             <li><i class="fas fa-star"></i></li>
@@ -311,12 +311,12 @@
                                             <li><i class="fas fa-star"></i></li>
                                             <li><i class="fas fa-star"></i></li>
                                         </ul>
-                                        <div class="text">Lorem ipsum dolor sit amet consectetr adipicing elit usmod tempor incidunt enim minim quis nostrud nis exer tation ullamco laboris nis aliquip commodo per</div>
+                                        <div class="text">Warsztaty były bardzo ciekawe i twórcze.</div>
                                     </div>
                                 </div>
                                 <div class="testimonial-block">
                                     <div class="inner-box">
-                                        <div class="author">Jesscia Brown <span>/ Kids Mother</span></div>
+                                        <div class="author">British International School Gdańsk<span></span></div>
                                         <ul class="rating">
                                             <li><i class="fas fa-star"></i></li>
                                             <li><i class="fas fa-star"></i></li>
@@ -324,12 +324,12 @@
                                             <li><i class="fas fa-star"></i></li>
                                             <li><i class="fas fa-star"></i></li>
                                         </ul>
-                                        <div class="text">Lorem ipsum dolor sit amet consectetr adipicing elit usmod tempor incidunt enim minim quis nostrud nis exer tation ullamco laboris nis aliquip commodo per</div>
+                                        <div class="text">Dziękujemy bardzo za przeprowadznie warsztatów o bębnach afrykańskich dla uczniów z British International School Gdańsk</div>
                                     </div>
                                 </div>
                                 <div class="testimonial-block">
                                     <div class="inner-box">
-                                        <div class="author">Christine Eve <span>/ Kids Mother</span></div>
+                                        <div class="author">Bajkowe Prywatne przedszkole<span> nr 6</span></div>
                                         <ul class="rating">
                                             <li><i class="fas fa-star"></i></li>
                                             <li><i class="fas fa-star"></i></li>
@@ -337,12 +337,12 @@
                                             <li><i class="fas fa-star"></i></li>
                                             <li><i class="fas fa-star"></i></li>
                                         </ul>
-                                        <div class="text">Lorem ipsum dolor sit amet consectetr adipicing elit usmod tempor incidunt enim minim quis nostrud nis exer tation ullamco laboris nis aliquip commodo per</div>
+                                        <div class="text">Przedskolaki, Dyrekcja i Nauczycielki Bajkowego Prywatnego Przedszkola w Jaśle składają serdeczne Podziękowanie za aktywne włączenie się do Akcji "Cała Polska Czyta Dzieciom"</div>
                                     </div>
                                 </div>
                                 <div class="testimonial-block">
                                     <div class="inner-box">
-                                        <div class="author">Hattie Bradly <span>/ Kids Fathre</span></div>
+                                        <div class="author">Publiczne przedszkole "Radość"<span> nr 27</span></div>
                                         <ul class="rating">
                                             <li><i class="fas fa-star"></i></li>
                                             <li><i class="fas fa-star"></i></li>
@@ -350,12 +350,12 @@
                                             <li><i class="fas fa-star"></i></li>
                                             <li><i class="fas fa-star"></i></li>
                                         </ul>
-                                        <div class="text">Lorem ipsum dolor sit amet consectetr adipicing elit usmod tempor incidunt enim minim quis nostrud nis exer tation ullamco laboris nis aliquip commodo per</div>
+                                        <div class="text">Dziękujemy za warsztaty instrumentalno- muzyczne bębnów afrykańskich dla dzieci w przedszkolu Radość w Kaliczy. Zajęcia były bardzo twórcze i zachęciły do wspólnej zabawy.</div>
                                     </div>
                                 </div>
                                 <div class="testimonial-block">
                                     <div class="inner-box">
-                                        <div class="author">Jesscia Brown <span>/ Kids Mother</span></div>
+                                        <div class="author">Misiowa Akademia Przedszkole Niepubliczne <span></span></div>
                                         <ul class="rating">
                                             <li><i class="fas fa-star"></i></li>
                                             <li><i class="fas fa-star"></i></li>
@@ -363,12 +363,12 @@
                                             <li><i class="fas fa-star"></i></li>
                                             <li><i class="fas fa-star"></i></li>
                                         </ul>
-                                        <div class="text">Lorem ipsum dolor sit amet consectetr adipicing elit usmod tempor incidunt enim minim quis nostrud nis exer tation ullamco laboris nis aliquip commodo per</div>
+                                        <div class="text">Podziękowania dla Adama za wprowadzenie w swiat afrykańskich rytmów i wywołanie uśmiechów na twarzach przedszkolaków</div>
                                     </div>
                                 </div>
                                 <div class="testimonial-block">
                                     <div class="inner-box">
-                                        <div class="author">Christine Eve <span>/ Kids Mother</span></div>
+                                        <div class="author">Szkrabik<span> Barbara Ławorynowicz</span></div>
                                         <ul class="rating">
                                             <li><i class="fas fa-star"></i></li>
                                             <li><i class="fas fa-star"></i></li>
@@ -376,7 +376,7 @@
                                             <li><i class="fas fa-star"></i></li>
                                             <li><i class="fas fa-star"></i></li>
                                         </ul>
-                                        <div class="text">Lorem ipsum dolor sit amet consectetr adipicing elit usmod tempor incidunt enim minim quis nostrud nis exer tation ullamco laboris nis aliquip commodo per</div>
+                                        <div class="text">Podziękowania za przeprowadznie warsztatów gry na bębnach dla przedszkolaków</div>
                                     </div>
                                 </div>
 
@@ -386,22 +386,22 @@
                             <div class="client-thumb-outer">
                                 <div class="client-thumbs-carousel owl-carousel owl-theme">
                                     <div class="thumb-item">
-                                        <figure class="thumb-box"><img src="images/resource/testimonial-1.png" alt=""></figure>
+                                        <figure class="thumb-box"><img src="images/resource/testimonial-1.jpg" alt=""></figure>
                                     </div>
                                     <div class="thumb-item">
                                         <figure class="thumb-box"><img src="images/resource/testimonial-2.png" alt=""></figure>
                                     </div>
                                     <div class="thumb-item">
-                                        <figure class="thumb-box"><img src="images/resource/testimonial-3.png" alt=""></figure>
+                                        <figure class="thumb-box"><img src="images/resource/testimonial-3.jpg" alt=""></figure>
                                     </div>
                                     <div class="thumb-item">
-                                        <figure class="thumb-box"><img src="images/resource/testimonial-1.png" alt=""></figure>
+                                        <figure class="thumb-box"><img src="images/resource/testimonial-4.jpg" alt=""></figure>
                                     </div>
                                     <div class="thumb-item">
-                                        <figure class="thumb-box"><img src="images/resource/testimonial-2.png" alt=""></figure>
+                                        <figure class="thumb-box"><img src="images/resource/testimonial-5.jpg" alt=""></figure>
                                     </div>
                                     <div class="thumb-item">
-                                        <figure class="thumb-box"><img src="images/resource/testimonial-3.png" alt=""></figure>
+                                        <figure class="thumb-box"><img src="images/resource/testimonial-6.jpg" alt=""></figure>
                                     </div>
                                 </div>
                             </div>
@@ -422,7 +422,7 @@
                                 </div>
                                 <div class="acc-content current">
                                     <div class="content">
-                                        <div class="text">Lorem ipsum dolor amet consectetur adipisicing  sed do eiusmod tempor incididunt ut labore magna aliqua enim minim veniam quis nostrud.</div>
+                                        <div class="text">Wybierz zakładkę zajęcia i przejdź do tych które cię interesują. Zostaniesz przekierowany do zakładki podsumowującej zakup i za pomocą przelew24 szybko zrealizujesz płatność.</div>
                                     </div>
                                 </div>
                             </li>
@@ -433,7 +433,7 @@
                                 </div>
                                 <div class="acc-content">
                                     <div class="content">
-                                        <div class="text">Lorem ipsum dolor amet consectetur adipisicing  sed do eiusmod tempor incididunt ut labore magna aliqua enim minim veniam quis nostrud.</div>
+                                        <div class="text">Dostęp jest przyznawany na okres 24 godzin.</div>
                                     </div>
                                 </div>
                             </li>
@@ -444,7 +444,7 @@
                                 </div>
                                 <div class="acc-content">
                                     <div class="content">
-                                        <div class="text">Lorem ipsum dolor amet consectetur adipisicing  sed do eiusmod tempor incididunt ut labore magna aliqua enim minim veniam quis nostrud.</div>
+                                        <div class="text">Oczywiście. Skontaktuj się ze mną przez zkładkę Kontakt bądź wyślij maila od siebie jak tobie wygodnie.</div>
                                     </div>
                                 </div>
                             </li>
