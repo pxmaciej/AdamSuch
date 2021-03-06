@@ -8,12 +8,12 @@
         <p>3. Warsztaty on-line realizowane są za pośrednictwem serwisu internetowego www.szczypta muzyki.pl, zwanego dalej Serwisem Internetowym.</p>
             <p>4. Zgłoszenie na warsztaty on-line jest jednoznaczne z akceptacją niniejszego Regulaminu oraz Polityki prywatności - w szczególności w zakresie przetwarzania i ochrony danych osobowych.</p>
                 <p>§1 Zgłoszenie do udziału w warsztatach</p>
-                    <p>1. Zgłoszenia na warsztaty on-line dokonywane są za pośrednictwem Serwisu Internetowego. Lista warsztatów on-line dostępna jest w zakładce "Warsztaty on-line". Po wyborze warsztatów należy przejść do formularza rejestracji.</p>
-                        <p>2. W celu dokonania rejestracji na warsztaty on-line Uczestnik powinien podać poniższe dane:</p>
+                    <p>1. Zgłoszenia na warsztaty on-line dokonywane są za pośrednictwem Serwisu Internetowego. Lista warsztatów on-line dostępna jest w zakładce "Zajęcia". Po wyborze warsztatów należy przejść do formularza płatności.</p>
+                        <p>2. W celu dokonania płatności za warsztaty on-line Uczestnik powinien podać poniższe dane:</p>
                             <p>imię i nazwisko,</p>
                                 <p>adres e-mail,</p>
                                     <p>nr telefonu,</p>
-                                        <p>adres do wysyłki materiałów dydaktycznych oraz zaświadczenia o uczestnictwie w warsztacie.</p>
+                                        <p>adres do wysyłki materiałów dydaktycznych oraz termin realizaci warsztatów.</p>
                                             <p>3. Istnieje możliwość wystawienia faktury za warsztaty on-line, w tym celu należy zgłosić taką potrzebę w polu "Informacje dodatkowe" w formularzu rejestracji oraz podać dane do faktury, tj. NIP, nazwę firmy oraz adres firmy.</p>
                                                 <p>4. Na podany w formularzu rejestracyjnym adres e-mail przesłane zostaje potwierdzenie zapisu na warsztaty on-line wraz z danymi do dokonania opłaty za warsztaty, tj. numer konta bankowego, nazwa odbiorcy oraz tytuł przelewu.</p>
                                                     <p>§2 Płatności</p>

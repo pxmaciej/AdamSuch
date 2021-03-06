@@ -1,6 +1,6 @@
 @extends('layouts.app')
 @section('content')
-<div class="container">
+<div class="container" oncontextmenu="return false;">
   <div class="row my-5">
       <div class="embed-responsive embed-responsive-21by9">
     <video controls>
