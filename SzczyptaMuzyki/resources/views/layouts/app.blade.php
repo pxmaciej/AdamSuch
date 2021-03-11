@@ -13,6 +13,7 @@
             @include('includes.search')
             @include('includes.navbar')
             @yield('content')
+            @include('includes.cookie')
             @include('includes.footer')
         </main>
             <button class="scroll-top scroll-to-target" data-target="html">

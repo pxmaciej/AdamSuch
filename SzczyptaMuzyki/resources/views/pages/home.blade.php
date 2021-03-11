@@ -93,21 +93,21 @@
                             <div class="service-block-one">
                                 <div class="inner-box">
                                     <div class="icon-box"><i class="fas fa-music"></i></div>
-                                    <h3><a href="#">Koncerty</a></h3>
+                                    <h3><a href="/class-details/2">Koncerty</a></h3>
                                     <div class="text">Wybierz nadchodzące wydarzenie i obejrzyj je na własnym ekranie</div>
                                 </div>
                             </div>
                             <div class="service-block-one">
                                 <div class="inner-box">
                                     <div class="icon-box"><i class="fas fa-graduation-cap"></i></div>
-                                    <h3><a href="#">Lekcje Online</a></h3>
+                                    <h3><a href="/class-details/3">Lekcje Online</a></h3>
                                     <div class="text">Zobaczcie nasze warsztaty internetowe wypełnione dobrą zabawą</div>
                                 </div>
                             </div>
                             <div class="service-block-one">
                                 <div class="inner-box">
                                     <div class="icon-box"><i class="flaticon-drum"></i></div>
-                                    <h3><a href="#">Lekcje Rytmiki</a></h3>
+                                    <h3><a href="/class-details/1">Lekcje Rytmiki</a></h3>
                                     <div class="text">Pobudź kreatywność biorąc instrument do rąk</div>
                                 </div>
                             </div>
@@ -239,11 +239,6 @@
                             <div class="lower-content">
                                 <h3><a href="#">Adam Such</a></h3>
                                 <span class="designation">Instruktor</span>
-                                <ul class="social-list">
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                </ul>
                             </div>
                         </div>
                     </div>

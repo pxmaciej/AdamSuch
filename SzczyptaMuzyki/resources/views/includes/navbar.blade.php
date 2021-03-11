@@ -5,8 +5,6 @@
             <div class="inner-container clearfix">
                 <div class="social-links pull-left">
                     <ul class="social-list">
-                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
                     </ul>
                 </div>
                 <div class="header-info pull-right">

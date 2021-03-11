@@ -48,67 +48,67 @@
     </div>
     <div class="container">
         <div class="sec-title centred">
-            <h5>Testimonials</h5>
-            <h1>Happy Parents Say</h1>
+            <h5>Opinie</h5>
+            <h1>Co o nas mówią</h1>
         </div>
         <div class="testimonial-carousel owl-carousel owl-theme">
             <div class="testimonial-block-two">
                 <div class="inner-box">
-                    <div class="text">Lorem ipsum dolor sit amet con adipicing elit usmod in tempor incidunt enim minim quis nostrud exer tation lamco laboris nis aliquipcommodo spiciatis unde omnis iste natus error sit voluptatem.</div>
+                    <div class="text">Warsztaty były bardzo ciekawe i twórcze.</div>
                     <div class="author-info">
                         <figure class="author-thumb"><img src="images/resource/testimonial-4.png" alt=""></figure>
-                        <h5>Hattie Bradly</h5>
-                        <span class="designation">Kids Father</span>
+                        <h5>Publiczna Szkoła Podstawowa w Mierzynie</h5>
+                        <span class="designation"></span>
                     </div>
                 </div>
             </div>
             <div class="testimonial-block-two">
                 <div class="inner-box">
-                    <div class="text">Lorem ipsum dolor sit amet con adipicing elit usmod in tempor incidunt enim minim quis nostrud exer tation lamco laboris nis aliquipcommodo spiciatis unde omnis iste natus error sit voluptatem.</div>
+                    <div class="text">Dziękujemy bardzo za przeprowadznie warsztatów o bębnach afrykańskich dla uczniów z British International School Gdańsk.</div>
                     <div class="author-info">
                         <figure class="author-thumb"><img src="images/resource/testimonial-5.png" alt=""></figure>
-                        <h5>Natasha Ros</h5>
+                        <h5>British International School Gdańsk</h5>
                         <span class="designation">Kids Mothre</span>
                     </div>
                 </div>
             </div>
             <div class="testimonial-block-two">
                 <div class="inner-box">
-                    <div class="text">Lorem ipsum dolor sit amet con adipicing elit usmod in tempor incidunt enim minim quis nostrud exer tation lamco laboris nis aliquipcommodo spiciatis unde omnis iste natus error sit voluptatem.</div>
+                    <div class="text">Przedskolaki, Dyrekcja i Nauczycielki Bajkowego Prywatnego Przedszkola w Jaśle składają serdeczne Podziękowanie za aktywne włączenie się do Akcji "Cała Polska Czyta Dzieciom".</div>
                     <div class="author-info">
                         <figure class="author-thumb"><img src="images/resource/testimonial-4.png" alt=""></figure>
-                        <h5>Hattie Bradly</h5>
-                        <span class="designation">Kids Father</span>
+                        <h5>Bajkowe Prywatne przedszkole</h5>
+                        <span class="designation">nr 6</span>
                     </div>
                 </div>
             </div>
             <div class="testimonial-block-two">
                 <div class="inner-box">
-                    <div class="text">Lorem ipsum dolor sit amet con adipicing elit usmod in tempor incidunt enim minim quis nostrud exer tation lamco laboris nis aliquipcommodo spiciatis unde omnis iste natus error sit voluptatem.</div>
+                    <div class="text">Podziękowania dla Adama za wprowadzenie w swiat afrykańskich rytmów i wywołanie uśmiechów na twarzach przedszkolaków.</div>
                     <div class="author-info">
                         <figure class="author-thumb"><img src="images/resource/testimonial-5.png" alt=""></figure>
-                        <h5>Natasha Ros</h5>
-                        <span class="designation">Kids Mothre</span>
+                        <h5>Misiowa Akademia Przedszkole Niepubliczne</h5>
+                        <span class="designation"></span>
                     </div>
                 </div>
             </div>
             <div class="testimonial-block-two">
                 <div class="inner-box">
-                    <div class="text">Lorem ipsum dolor sit amet con adipicing elit usmod in tempor incidunt enim minim quis nostrud exer tation lamco laboris nis aliquipcommodo spiciatis unde omnis iste natus error sit voluptatem.</div>
+                    <div class="text">Dziękujemy za warsztaty instrumentalno- muzyczne bębnów afrykańskich dla dzieci w przedszkolu Radość w Kaliczy. Zajęcia były bardzo twórcze i zachęciły do wspólnej zabawy.</div>
                     <div class="author-info">
                         <figure class="author-thumb"><img src="images/resource/testimonial-4.png" alt=""></figure>
-                        <h5>Hattie Bradly</h5>
-                        <span class="designation">Kids Father</span>
+                        <h5>Publiczne przedszkole "Radość"</h5>
+                        <span class="designation">nr 27</span>
                     </div>
                 </div>
             </div>
             <div class="testimonial-block-two">
                 <div class="inner-box">
-                    <div class="text">Lorem ipsum dolor sit amet con adipicing elit usmod in tempor incidunt enim minim quis nostrud exer tation lamco laboris nis aliquipcommodo spiciatis unde omnis iste natus error sit voluptatem.</div>
+                    <div class="text">Podziękowania za przeprowadznie warsztatów gry na bębnach dla przedszkolaków.</div>
                     <div class="author-info">
                         <figure class="author-thumb"><img src="images/resource/testimonial-5.png" alt=""></figure>
-                        <h5>Natasha Ros</h5>
-                        <span class="designation">Kids Mothre</span>
+                        <h5>Szkrabik</h5>
+                        <span class="designation">Barbara Ławorynowicz</span>
                     </div>
                 </div>
             </div>

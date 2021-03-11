@@ -29,7 +29,10 @@
                         <div class="table-header">
                             <h1>450zł<span> <s>750zł</s></span></h1>
                             <h4>Warsztaty Stacjonarnie</h4>
-                            <div class="text">Warsztaty to niepowtarzalna okazja do zrozumienia, wygrywania i przeżywania energetycznych rytmów z Afryki Zachodniej.</div>
+                            <div class="text">
+                                Warsztaty to niepowtarzalna okazja do zrozumienia, wygrywania i przeżywania energetycznych rytmów z Afryki Zachodniej.<br>
+                                <strong>*Większa ilość grup cena indywidualna proszę o kontakt telefoniczny</strong>
+                            </div>
                         </div>
                         <div class="table-content">
                             <ul>

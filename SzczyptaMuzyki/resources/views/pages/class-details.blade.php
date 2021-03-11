@@ -37,13 +37,16 @@
                                         </li>
                                         <li>
                                             <h6>Grupa</h6>
-                                            <h5>{{$class->rozmiar_grup}}</h5>
+                                            <h5>{{$class->rozmiar_grup}}os.</h5>
                                         </li>
                                         <li>
                                             <h6>Cena</h6>
                                             <h5>{{$class->cena}}</h5>
                                         </li>
+
                                         <li class="btn-box"><a href="/pricing" class="theme-btn">Cennik</a></li>
+
+                                        <li><h6>*Większa ilość grup cena indywidualna proszę o kontakt telefoniczny</h6></li>
                                     </ul>
                                 </div>
                             </div>
@@ -69,7 +72,7 @@
                                 </li>
                                 <li>
                                     <h5>Rozmiar Grupy</h5>
-                                    <span>{{$class->rozmiar_grup}}</span>
+                                    <span>{{$class->rozmiar_grup}} osób</span>
                                 </li>
                             </ul>
                         </div>
@@ -81,48 +84,30 @@
     <!-- class-details end -->
 
 
-    <!-- fact-counter -->
-    <section class="fact-counter">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-3 col-md-6 col-sm-12 counter-column">
-                    <div class="counter-block wow slideInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
-                        <div class="icon-box"><i class="flaticon-two-users"></i></div>
-                        <div class="count-outer count-box">
-                            <span class="count-text" data-speed="1500" data-stop="200">0</span>
-                        </div>
-                        <div class="text">Teacher & Staffs</div>
+   <!-- fact-counter -->
+   <section class="fact-counter">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-12 counter-column">
+                <div class="counter-block wow slideInUp" data-wow-delay="100ms" data-wow-duration="1500ms">
+                    <div class="icon-box"><i class="flaticon-calendar"></i></div>
+                    <div class="count-outer count-box">
+                        <span class="count-text" data-speed="1500" data-stop="125">0</span>
                     </div>
+                    <div class="text">Przeprowadzonych Zajęć Online</div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 counter-column">
-                    <div class="counter-block wow slideInUp" data-wow-delay="100ms" data-wow-duration="1500ms">
-                        <div class="icon-box"><i class="flaticon-calendar"></i></div>
-                        <div class="count-outer count-box">
-                            <span class="count-text" data-speed="1500" data-stop="125">0</span>
-                        </div>
-                        <div class="text">Total Sessions</div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12 counter-column">
+                <div class="counter-block wow slideInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
+                    <div class="icon-box"><i class="flaticon-boy"></i></div>
+                    <div class="count-outer count-box">
+                        <span class="count-text" data-speed="1500" data-stop="750">0</span>
                     </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 counter-column">
-                    <div class="counter-block wow slideInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
-                        <div class="icon-box"><i class="flaticon-boy"></i></div>
-                        <div class="count-outer count-box">
-                            <span class="count-text" data-speed="1500" data-stop="750">0</span>
-                        </div>
-                        <div class="text">Total Students</div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 counter-column">
-                    <div class="counter-block wow slideInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-                        <div class="icon-box"><i class="flaticon-flask"></i></div>
-                        <div class="count-outer count-box">
-                            <span class="count-text" data-speed="1500" data-stop="200">0</span>
-                        </div>
-                        <div class="text">Labs Project</div>
-                    </div>
+                    <div class="text">Przeprowadzonych Warsztatów</div>
                 </div>
             </div>
         </div>
-    </section>
-    <!-- fact-counter end -->
+    </div>
+</section>
+<!-- fact-counter end -->
 @endsection

@@ -136,11 +136,6 @@
                                 <div class="lower-content">
                                     <h3><a href="#">Adam Such</a></h3>
                                     <span class="designation">Instruktor</span>
-                                    <ul class="social-list">
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                    </ul>
                                 </div>
                             </div>
                         </div>
@@ -293,7 +288,7 @@
                         <div class="count-outer count-box">
                             <span class="count-text" data-speed="1500" data-stop="125">0</span>
                         </div>
-                        <div class="text">Ilość Zajęć</div>
+                        <div class="text">Przeprowadzonych Zajęć Online</div>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 counter-column">
