@@ -16,8 +16,10 @@
                         <div class="about-widget footer-widget">
                             <h3 class="widget-title">O Projekcie</h3>
                             <div class="widget-content">
-                                <div class="text">
-                                  <p>Dofinansowanie z środków </p>
+                                <div class="text text-white">
+                                  <h5>Wsparcie ze środków Funduszu Przeciwdziałania COVID-19</h5>
+                                  <br>
+                                  <figure class="footer-logo"><img src="images/resource/fwk.jpg" alt=""></figure>
                                 </div>
                             </div>
                         </div>
