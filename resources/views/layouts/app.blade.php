@@ -23,18 +23,18 @@
 
 
         <!-- jequery plugins -->
-        <script src="{{ asset('js/jquery.js')}}"></script>
-        <script src="{{ asset('js/popper.min.js')}}"></script>
-        <script src="{{ asset('js/bootstrap.min.js')}}"></script>
+        <script src="{{ secure_asset('js/jquery.js')}}"></script>
+        <script src="{{ secure_asset('js/popper.min.js')}}"></script>
+        <script src="{{ secure_asset('js/bootstrap.min.js')}}"></script>
 
-        <script src="{{ asset('js/owl.js')}}"></script>
-        <script src="{{ asset('js/wow.js')}}"></script>
-        <script src="{{ asset('js/validation.js')}}"></script>
-        <script src="{{ asset('js/jquery.fancybox.js')}}"></script>
-        <script src="{{ asset('js/appear.js')}}"></script>
-        <script src="{{ asset('js/parallax.min.js')}}"></script>
+        <script src="{{ secure_asset('js/owl.js')}}"></script>
+        <script src="{{ secure_asset('js/wow.js')}}"></script>
+        <script src="{{ secure_asset('js/validation.js')}}"></script>
+        <script src="{{ secure_asset('js/jquery.fancybox.js')}}"></script>
+        <script src="{{ secure_asset('js/appear.js')}}"></script>
+        <script src="{{ secure_asset('js/parallax.min.js')}}"></script>
 
         <!-- main-js -->
-        <script src="{{ asset('js/script.js')}}"></script>
+        <script src="{{ secure_asset('js/script.js')}}"></script>
 </body>
 </html>
