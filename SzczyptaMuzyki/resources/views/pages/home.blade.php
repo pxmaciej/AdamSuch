@@ -439,6 +439,7 @@
                                 </div>
                                 <div class="acc-content">
                                     <div class="content">
+
                                         <div class="text">Oczywiście. Skontaktuj się ze mną przez zkładkę Kontakt bądź wyślij maila od siebie jak tobie wygodnie.</div>
                                     </div>
                                 </div>
