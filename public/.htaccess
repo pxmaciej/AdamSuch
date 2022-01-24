@@ -17,7 +17,7 @@
     # Send Requests To Front Controller...
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_FILENAME} !-f
-    RewriteRule ^ public/index.php [L]
+    RewriteRule ^ /index.php [L]
     RewriteEngine On
     RewriteCond %{REQUEST_URI} \.(mp4|mp3|avi)$ [NC]
     RewriteCond %{HTTP_REFERER} !^http://127.0.0.1:8000//.*$ [NC]
