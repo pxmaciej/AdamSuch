@@ -33,8 +33,13 @@
         <script src="{{ secure_asset('js/jquery.fancybox.js')}}"></script>
         <script src="{{ secure_asset('js/appear.js')}}"></script>
         <script src="{{ secure_asset('js/parallax.min.js')}}"></script>
-
+        <script src="https://cdn.jsdelivr.net/gh/Wruczek/Bootstrap-Cookie-Alert@gh-pages/cookiealert.js"></script>
         <!-- main-js -->
         <script src="{{ secure_asset('js/script.js')}}"></script>
+        <script>
+        window.addEventListener("cookieAlertAccept", function() {
+            alert("cookies accepted")
+        })
+        </script>
 </body>
 </html>
