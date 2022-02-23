@@ -8,5 +8,15 @@ use Illuminate\Database\Eloquent\Model;
 class Classdetail extends Model
 {
     use HasFactory;
-    protected $guarded = [];
+    public $fillable = [
+        'id',
+        'warsztaty_nazwa',
+        'opis_warsztatow',
+        'opis_krotki',
+        'informacje',
+        'wiek',
+        'rozmiar_grup',
+        'file_img',
+        'cena',
+    ];
 }
