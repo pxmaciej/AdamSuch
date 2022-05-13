@@ -27,7 +27,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 pricing-block">
                     <div class="pricing-table">
                         <div class="table-header">
-                            <h1>450zł<span> <s>750zł</s></span></h1>
+                            <h1>650zł<span> <s>950zł</s></span></h1>
                             <h4>Warsztaty Stacjonarnie</h4>
                             <div class="text">
                                 Warsztaty to niepowtarzalna okazja do zrozumienia, wygrywania i przeżywania energetycznych rytmów z Afryki Zachodniej.<br>
@@ -49,7 +49,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 pricing-block">
                     <div class="pricing-table">
                         <div class="table-header">
-                            <h1>450zł<span> <s>750zł</s></span></h1>
+                            <h1>650zł<span> <s>950zł</s></span></h1>
                             <h4>Koncert</h4>
                             <div class="text">Wspólne bębnienie jest ponad podziałami kulturowymi i społecznymi, gdyż nie używa się w nim słów, a rytm rozumie i czuje każdy.</div>
                         </div>
@@ -68,7 +68,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 pricing-block">
                     <div class="pricing-table">
                         <div class="table-header">
-                            <h1>250zł<span> <s>450zł</s></span></h1>
+                            <h1>450zł<span> <s>650zł</s></span></h1>
                             <h4>Warsztaty Online</h4>
                             <div class="text">Dzięki prezentacjom nt. Afryki uruchamiamy wyobraźnię dzieci, dlatego bęben staje się nie tylko instrumentem muzycznym a jest sposobem na przeniesienie się do świata odległej kultury.</div>
                         </div>
