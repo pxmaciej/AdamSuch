@@ -42,7 +42,7 @@
                             </ul>
                         </div>
                         <div class="table-footer">
-                            <a href="/chceckoutws" class="theme-btn">Wybierz Plan</a>
+
                         </div>
                     </div>
                 </div>
@@ -61,7 +61,7 @@
                             </ul>
                         </div>
                         <div class="table-footer">
-                            <a href="/chceckoutk" class="theme-btn">Wybierz Plan</a>
+
                         </div>
                     </div>
                 </div>
@@ -79,7 +79,7 @@
                             </ul>
                         </div>
                         <div class="table-footer">
-                            <a href="/chceckoutwo" class="theme-btn">Wybierz Plan</a>
+
                         </div>
                     </div>
                 </div>
